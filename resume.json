@@ -1,0 +1,127 @@
+{
+    "basics": {
+        "name": "Simon Gregersen",
+        "label": "Student, Computer Science",
+        "picture": "photo.jpg",
+        "email": "simon@thyrace.dk",
+        "phone": "(+45) 2140 5661",
+        "website": "http://simongregersen.github.io",
+        "summary": "",
+        "location": {
+            "postalCode": "DK-8000",
+            "city": "Aarhus",
+            "countryCode": "DK"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "simongregersen",
+                "url": "https://www.linkedin.com/in/simongregersen/"
+            },
+            {
+                "network": "GitHub",
+                "username": "simongregersen",
+                "url": "https://github.com/simongregersen"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Center for Advanced Software Analysis",
+            "position": "Student Programmer",
+            "website": "http://casa.au.dk",
+            "startDate": "2017-02-01",
+            "summary": "Center for Advanced Software Analysis is a part of the Programming Languages research group located at Department of Computer Science, Aarhus University. The center conducts research in program analysis and web technologiess, aiming to improve software quality and programmer productivity.",
+            "highlights": [
+                "Developed an inspection web tool for the program analysis tool TAJS (Type Analysis for JavaScript)."
+            ]
+        },
+        {
+            "company": "CCI Europe A/S",
+            "position": "Student Software Developer",
+            "website": "http://www.ccieurope.com",
+            "startDate": "2015-03-01",
+            "endDate": "2017-05-01",
+            "summary": "CCI Europe is a software company based in Aarhus, Denmark that provides editorial and advertising solutions for cross-media news and magazine environments. Customers include companies like The New York Times, The Hindu, The Times of India, APN News & Media, and Poltikens Hus. While at the company, I had the role of main developer and architect on CCI Newsroom Analytics, a log-based analysis tool for the newspaper production suite CCI NewsGate.",
+            "highlights": [
+                "Developed a concurrent processing engine for processing and analyzing large event logs.",
+                "Developed a web application for visual presentation of advanced data analytics.",
+                "Held technical scoping sessions on the analysis tool on-site for customers in Australia and India."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+        "organization": "Danish Adventure Race Union",
+        "position": "Board member",
+        "website": "http://ar-union.dk",
+        "startDate": "2015-11-01"
+        },
+        {
+            "organization": "Thisted Gymnasium og HF-Kursus",
+            "position": "Board member",
+            "website": "http://www.thisted-gymnasium.dk",
+            "startDate": "2012-05-01",
+            "endDate": "2013-05-01"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Aarhus University",
+            "area": "Computer Science",
+            "studyType": "Master of Science (M.Sc.)",
+            "startDate": "2017-09-01",
+            "endDate": "2019-07-01",
+            "gpa": "",
+            "courses": [
+                "Program Analysis and Verification",
+                "Functional Programming",
+                "Cryptology"
+            ]
+        },
+        {
+            "institution": "Aarhus University",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science (B.Sc.)",
+            "startDate": "2014-09-01",
+            "endDate": "2017-07-01",
+            "gpa": "11.39/12.00",
+            "courses": [
+                "Compilation",
+                "Optimization",
+                "Combinatorial Search",
+                "Experimental System Development",
+                "Algebra",
+                "Linear Algebra",
+                "Introduction to Mathemathical Analysis",
+                "Mathematical Analysis 1", "Mathematical Analysis 2",
+                "Perspectives in Mathematics",
+                "Mandatory program (110 ECTS)"
+            ]
+        },
+        {
+            "institution": "Thisted Gymnasium og HF-kursus",
+            "area": "STX",
+            "studyType": "High school",
+            "startDate": "2010-07-01",
+            "endDate": "2013-07-01",
+            "gpa": "11.00/12.00",
+            "courses": [
+                "Mathematics A",
+                "Physics A",
+                "Chemistry A"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Adventure Racing"
+        },
+        {
+            "name": "Mountain biking"
+        },
+        {
+            "name": "Trail running"
+        }
+    ]
+}
