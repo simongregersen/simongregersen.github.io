@@ -1,0 +1,38 @@
+body, html {
+    line-height: 2em;
+    color: #9d9d9d;
+    font-family: 'Source Sans Pro', sans-serif;
+    height: 100%;
+}
+
+header {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+h1 {
+    font-size: 1.6em;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+    color: #777777;
+}
+
+h1:after {
+    width: 30px;
+    height: 1px;
+    background: #dcdcdc;
+    content: " ";
+    display: block;
+    margin-top: 15px;
+}
+
+p, li {
+    word-break: normal;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.title {
+    color: #585858;
+}
+
