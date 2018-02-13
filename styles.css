@@ -1,6 +1,6 @@
 body, html {
     line-height: 2em;
-    color: #9d9d9d;
+    color: #727272;
     font-family: 'Source Sans Pro', sans-serif;
     height: 100%;
 }
@@ -40,3 +40,6 @@ p, li {
     color: #585858;
 }
 
+h5 {
+    font-weight: bold;
+}
