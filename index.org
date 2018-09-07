@@ -20,7 +20,6 @@ Department of Computer Science, Aarhus University. My advisor is
 #   /Simon Oddershede Gregersen, Søren Eller Thomsen, Aslan Askarov/ \\
 #   23rd Nordic Conference on Secure IT Systems (NordSec), November 2018
 
-
 ** Notes
 - [[./notes/sfpl.pdf][Sets and Functions in Programming Languages]] \\
   /Simon Oddershede Gregersen/ \\
