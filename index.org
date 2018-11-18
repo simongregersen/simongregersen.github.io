@@ -27,15 +27,19 @@
 
 ** Positions
    - /Student programmer/. [[http://casa.au.dk/][Center for Advanced Software Analysis]], Aarhus University. 2017.
-     + Developed a web-based interface to display [[https://github.com/cs-au-dk/TAJS][TAJS]] analysis results.
+     + Developed a web-based interface to the analysis results of
+       [[https://github.com/cs-au-dk/TAJS][TAJS]].
+
      + Implemented Valmari's automaton minimization algorithm for the
        [[http://www.brics.dk/automaton/][dk.brics.automaton]] Java package.
 
    - /Student programmer/. [[http://www.ccieurope.com][CCI Europe A/S]], Aarhus. 2015 - 2017.
      + Developed a concurrent processing engine for processing and analyzing large event logs.
-     + Developed a web application for visual presentation of advanced
-       data analytics.
-     + Held technical scoping sessions on CCI Newsroom Analytics.
+
+     + Developed a web application for presentation of advanced data
+       analytics.
+
+     + Held technical scoping sessions on [[http://www.ccieurope.com/solutions/Newsroom_Analytics][CCI Newsroom Analytics]].
 
 ** Activities
 
