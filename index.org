@@ -10,38 +10,34 @@
   #+ATTR_HTML: :style border-radius: 2%; width: 200px; float: right; margin: 0 0 20px 20px;
   [[./photo_color.jpg]]
 
-  I am a PhD student in the [[http://cs.au.dk/research/programming-languages][Programming Languages Group]] at Aarhus
+  I am a PhD student in the [[http://cs.au.dk/research/programming-languages][Programming Languages group]] at Aarhus
   University under the guidance of [[https://cs.au.dk/~amoeller][Anders Møller]].
 
-  My research interests include programming languages, language-based
-  security, information-flow, formal verification, and program analysis.
+  My research interests include programming languages, language-based security,
+  information-flow, semantics, logics, and program analysis.
 
 ** Contact
    *E-mail*: [[mailto:gregersen@cs.au.dk][gregersen@cs.au.dk]] \\
-   *Office*: [[https://www.google.com/maps?ll%3D56.171759,10.188596&z%3D17&t%3Dh&hl%3Den&gl%3DUS&mapclient%3Dembed&q%3D56%25C2%25B010%252718.6%2522N%2B10%25C2%25B011%252718.0%2522E@56.171822,10.1883388][Turing 220, Aabogade 34, DK-8200 Aarhus N]]
+   *Office*: [[https://www.google.com/maps?ll%3D56.171759,10.188596&z%3D17&t%3Dh&hl%3Den&gl%3DUS&mapclient%3Dembed&q%3D56%25C2%25B010%252718.6%2522N%2B10%25C2%25B011%252718.0%2522E@56.171822,10.1883388][Turing 220 (5341-220), Aabogade 34, DK-8200 Aarhus N]]
+
+** Publications
+   - *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
+     Simon Oddershede Gregersen, Søren Eller Thomsen, Aslan Askarov \\
+     In Proceedings of the 8th International Conference on Principles of Security and Trust [[https://www.etaps.org/2019/post][(POST '19)]]. /To appear/.
 
 ** Teaching
-   - Fall 2018: TA for [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][Functional Programming]] (Master's course) with [[http://users-cs.au.dk/spitters/][Bas Spitters]].
+   - Fall 2018: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][Functional Programming]] (Master's course) with [[http://users-cs.au.dk/spitters/][Bas Spitters]].
 
-   - Spring 2018: TA for [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]] (Bachelor's course) with [[https://cs.au.dk/~amoeller][Anders Møller]].
+   - Spring 2018, 2019: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]] (Bachelor's course) with [[https://cs.au.dk/~amoeller][Anders Møller]].
 
 ** Positions
-   - /Student programmer/. [[http://casa.au.dk/][Center for Advanced Software Analysis]], Aarhus University. 2017.
-     + Developed a web-based interface to the analysis results of
-       [[https://github.com/cs-au-dk/TAJS][TAJS]].
+   - Student programmer. [[http://casa.au.dk/][Center for Advanced Software Analysis]], Aarhus University. 2017.
 
-     + Implemented Valmari's automaton minimization algorithm for the
-       [[http://www.brics.dk/automaton/][dk.brics.automaton]] Java package.
-
-   - /Student programmer/. [[http://www.ccieurope.com][CCI Europe A/S]], Aarhus. 2015 - 2017.
-     + Developed a concurrent processing engine for processing and analyzing large event logs.
-
-     + Developed a web application for presentation of advanced data
-       analytics.
-
-     + Held technical scoping sessions on [[http://www.ccieurope.com/solutions/Newsroom_Analytics][CCI Newsroom Analytics]].
+   - Student programmer. [[http://www.ccieurope.com][CCI Europe A/S]], Aarhus. 2015 - 2017.
 
 ** Activities
+   - /Google Compiler & Programming Language Summit/,
+     Munich, Germany. December 3 - 5, 2018.
 
    - [[http://cs.au.dk/research/logic-and-semantics/eutypes2018][/EUTypes WG meeting/]],
      Aarhus, Denmark. October 8 - 9, 2018.
@@ -52,14 +48,15 @@
    - /Google Web Security Summit/,
      Munich, Germany. June 25 - 27, 2018.
 
-   - [[https://psvg.doc.ic.ac.uk/2018/03/19/formal-methods-meets-js.html][/Formal Methods Meet JavaScript Workshop/]],
+   - /Formal Methods Meet JavaScript Workshop/
      London, England. March 19 - 20, 2018.
 
    - /Google Compiler & Programming Language Summit/,
      Munich, Germany. December 4 - 6, 2017.
 
    - [[http://www.sti.uniurb.it/events/fosad17][/International School on Foundations of Security Analysis and
-     Design/]], Bertinoro, Italy. August 28 - September 2, 2017.
+     Design/]],
+     Bertinoro, Italy. August 28 - September 2, 2017.
 
 ** Notes
    - [[./notes/sfpl.pdf][Sets and Functions in Programming Languages]]. Spring 2018. For [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]].
