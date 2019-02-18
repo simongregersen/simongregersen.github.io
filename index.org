@@ -13,17 +13,15 @@
   I am a PhD student in the [[http://cs.au.dk/research/programming-languages][Programming Languages group]] at Aarhus
   University under the guidance of [[https://cs.au.dk/~amoeller][Anders Møller]].
 
-  My research interests include programming languages, language-based security,
-  information-flow, semantics, logics, and program analysis.
-
 ** Contact
    *E-mail*: [[mailto:gregersen@cs.au.dk][gregersen@cs.au.dk]] \\
    *Office*: [[https://www.google.com/maps?ll%3D56.171759,10.188596&z%3D17&t%3Dh&hl%3Den&gl%3DUS&mapclient%3Dembed&q%3D56%25C2%25B010%252718.6%2522N%2B10%25C2%25B011%252718.0%2522E@56.171822,10.1883388][Turing 220 (5341-220), Aabogade 34, DK-8200 Aarhus N]]
 
 ** Publications
    - *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
-     Simon Oddershede Gregersen, Søren Eller Thomsen, Aslan Askarov \\
-     In Proceedings of the 8th International Conference on Principles of Security and Trust [[https://www.etaps.org/2019/post][(POST '19)]]. /To appear/.
+     Simon Gregersen, Søren Eller Thomsen, Aslan Askarov. \\
+     In Proceedings of [[https://www.etaps.org/2019/post][POST 2019]]. To appear. \\
+     [[[./papers/depsec-full.pdf][PDF]] | [[https://github.com/simongregersen/DepSec][Code]]]
 
 ** Teaching
    - Fall 2018: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][Functional Programming]] (Master's course) with [[http://users-cs.au.dk/spitters/][Bas Spitters]].
