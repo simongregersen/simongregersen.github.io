@@ -21,7 +21,7 @@
    - *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
      Simon Gregersen, Søren Eller Thomsen, Aslan Askarov. \\
      In Proceedings of [[https://www.etaps.org/2019/post][POST 2019]]. To appear. \\
-     [[[./papers/depsec-full.pdf][PDF]] | [[https://github.com/simongregersen/DepSec][Code]]]
+     [[./papers/post2019-depsec.pdf][PDF]] | [[./papers/depsec-full.pdf][PDF (extended)]] | [[https://github.com/simongregersen/DepSec][Code]]
 
 ** Teaching
    - Fall 2018: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][Functional Programming]] (Master's course) with [[http://users-cs.au.dk/spitters/][Bas Spitters]].
