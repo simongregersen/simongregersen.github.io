@@ -18,15 +18,15 @@
    *Office*: [[https://www.google.com/maps?ll%3D56.171759,10.188596&z%3D17&t%3Dh&hl%3Den&gl%3DUS&mapclient%3Dembed&q%3D56%25C2%25B010%252718.6%2522N%2B10%25C2%25B011%252718.0%2522E@56.171822,10.1883388][Turing 220 (5341-220), Aabogade 34, DK-8200 Aarhus N]]
 
 ** Publications
-   - *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
-     Simon Gregersen, Søren Eller Thomsen, Aslan Askarov. \\
-     In Proceedings of [[https://www.etaps.org/2019/post][POST 2019]]. To appear. \\
-     [[./papers/post2019-depsec.pdf][PDF]] | [[./papers/depsec-full.pdf][PDF (extended)]] | [[https://github.com/simongregersen/DepSec][Code]]
+   S. Gregersen, S. E. Thomsen, A. Askarov \\
+   *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
+   /Principles of Security and Trust (POST)/, 2019 \\
+   ([[./papers/depsec-full.pdf][PDF]], [[https://github.com/simongregersen/DepSec][Code]])
 
 ** Teaching
-   - Fall 2018: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][Functional Programming]] (Master's course) with [[http://users-cs.au.dk/spitters/][Bas Spitters]].
+   - Spring 2018, 2019: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]] (Bachelor's course) under [[https://cs.au.dk/~amoeller][Anders Møller]].
 
-   - Spring 2018, 2019: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]] (Bachelor's course) with [[https://cs.au.dk/~amoeller][Anders Møller]].
+   - Fall 2018: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][Functional Programming]] (Master's course) under [[http://users-cs.au.dk/spitters/][Bas Spitters]].
 
 ** Positions
    - Student programmer. [[http://casa.au.dk/][Center for Advanced Software Analysis]], Aarhus University. 2017.
@@ -34,6 +34,15 @@
    - Student programmer. [[http://www.ccieurope.com][CCI Europe A/S]], Aarhus. 2015 - 2017.
 
 ** Activities
+   - /[[https://www2.in.tum.de/mod19/][Marktoberdorf Summer School]]/,
+     Marktoberdorf, Germany. July 31 - August 9, 2019.
+
+   - /[[https://www.cs.uoregon.edu/research/summerschool/summer19/index.php][Oregon Programming Languages Summer Schoo]]l/,
+     Eugene, USA. June 17 - 29, 2019.
+
+   - /[[https://conf.researchr.org/home/etaps-2019][European Joint Conferences on Theory and Practice of Software (ETAPS)]]/,
+     Prague, Czech Republic. April 8 - 11, 2019.
+
    - /Google Compiler & Programming Language Summit/,
      Munich, Germany. December 3 - 5, 2018.
 
@@ -55,8 +64,3 @@
    - [[http://www.sti.uniurb.it/events/fosad17][/International School on Foundations of Security Analysis and
      Design/]],
      Bertinoro, Italy. August 28 - September 2, 2017.
-
-** Notes
-   - [[./notes/sfpl.pdf][Sets and Functions in Programming Languages]]. Spring 2018. For [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]].
-
-   - [[./notes/induction.pdf][Induction]]. Spring 2018. For [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]].
