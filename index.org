@@ -10,8 +10,8 @@
   #+ATTR_HTML: :style border-radius: 2%; width: 200px; float: right; margin: 0 0 20px 20px;
   [[./photo_color.jpg]]
 
-  I am a PhD student in the [[http://cs.au.dk/research/programming-languages][Programming Languages group]] at Aarhus
-  University under the guidance of [[https://cs.au.dk/~amoeller][Anders Møller]].
+  I am a PhD student in the [[https://cs.au.dk/research/logic-and-semantics][Logic and Semantics group]] in the Department of
+  Computer science at Aarhus University. I am advised by [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
 ** Contact
    *E-mail*: [[mailto:gregersen@cs.au.dk][gregersen@cs.au.dk]] \\
@@ -31,9 +31,9 @@
 
 ** Teaching
 
-   - Spring 2018, 2019: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]] (Bachelor's course) under [[https://cs.au.dk/~amoeller][Anders Møller]].
+   - Spring 2018, 2019: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]] (Bachelor's course) with [[https://cs.au.dk/~amoeller][Anders Møller]].
 
-   - Fall 2018: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][Functional Programming]] (Master's course) under [[http://users-cs.au.dk/spitters/][Bas Spitters]].
+   - Fall 2018: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][Functional Programming]] (Master's course) with [[http://users-cs.au.dk/spitters/][Bas Spitters]].
 
 ** Positions
    - Student programmer. [[http://casa.au.dk/][Center for Advanced Software Analysis]], Aarhus University. 2017.
