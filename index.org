@@ -5,7 +5,7 @@
 #+OPTIONS: author:nil creator:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css" />
 
-* Simon Oddershede Gregersen
+* Simon O. Gregersen
   -----
   #+ATTR_HTML: :style border-radius: 2%; width: 200px; float: right; margin: 0 0 20px 20px;
   [[./photo_color.jpg]]
@@ -20,14 +20,14 @@
 ** Publications
 
    *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
-   M. Krogh-Jespersen, A. Timany, M. E. Ohlenbusch, S. Gregersen, L. Birkedal \\
-   /Submitted for publication./ \\
-   ([[./papers/esop2020-aneris.pdf][PDF]])
+   M. Krogh-Jespersen, A. Timany, M. E. Ohlenbusch, S. O. Gregersen, L. Birkedal \\
+   /In ESOP 2020: European Symposium on Programming, Dublin, Ireland./ \\
+   ([[./papers/2020-esop-aneris-final.pdf][PDF]], [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]], [[./papers/2020-esop-aneris.tar.gz][Coq development]])
 
    *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
-   S. Gregersen, S. E. Thomsen, A. Askarov \\
-   /Principles of Security and Trust (POST)/, 2019 \\
-   ([[./papers/post2019-depsec.pdf][PDF]], [[./papers/depsec-full.pdf][Extended version]], [[https://github.com/simongregersen/DepSec][Code]])
+   S. O. Gregersen, S. E. Thomsen, A. Askarov \\
+   /In POST 2019: Principles of Security and Trust, Prague, Czech Republic./ \\
+   ([[./papers/2019-post-depsec.pdf][PDF]], [[./papers/2019-post-depsec-full.pdf][Extended version]], [[https://github.com/simongregersen/DepSec][Idris development]])
 
 ** Teaching
 
@@ -40,34 +40,35 @@
 
    - Student programmer. [[http://www.ccieurope.com][CCI Europe A/S]], Aarhus. 2015 - 2017.
 
-** Activities
-   - /[[https://www2.in.tum.de/mod19/][Marktoberdorf Summer School]]/,
-     Marktoberdorf, Germany. July 31 - August 9, 2019.
+# ** Activities
 
-   - /[[https://www.cs.uoregon.edu/research/summerschool/summer19/index.php][Oregon Programming Languages Summer Schoo]]l/,
-     Eugene, USA. June 17 - 29, 2019.
+#    - /[[https://www2.in.tum.de/mod19/][Marktoberdorf Summer School]]/,
+#      Marktoberdorf, Germany. July 31 - August 9, 2019.
 
-   - /[[https://conf.researchr.org/home/etaps-2019][European Joint Conferences on Theory and Practice of Software (ETAPS)]]/,
-     Prague, Czech Republic. April 8 - 11, 2019.
+#    - /[[https://www.cs.uoregon.edu/research/summerschool/summer19/index.php][Oregon Programming Languages Summer Schoo]]l/,
+#      Eugene, USA. June 17 - 29, 2019.
 
-   - /Google Compiler & Programming Language Summit/,
-     Munich, Germany. December 3 - 5, 2018.
+#    - /[[https://conf.researchr.org/home/etaps-2019][European Joint Conferences on Theory and Practice of Software (ETAPS)]]/,
+#      Prague, Czech Republic. April 8 - 11, 2019.
 
-   - [[http://cs.au.dk/research/logic-and-semantics/eutypes2018][/EUTypes WG meeting/]],
-     Aarhus, Denmark. October 8 - 9, 2018.
+#    - /Google Compiler & Programming Language Summit/,
+#      Munich, Germany. December 3 - 5, 2018.
 
-   - [[https://deepspec.org/event/dsss18/][/DeepSpec Summer School/]],
-     Princeton, USA. July 16 - 27, 2018.
+#    - [[http://cs.au.dk/research/logic-and-semantics/eutypes2018][/EUTypes WG meeting/]],
+#      Aarhus, Denmark. October 8 - 9, 2018.
 
-   - /Google Web Security Summit/,
-     Munich, Germany. June 25 - 27, 2018.
+#    - [[https://deepspec.org/event/dsss18/][/DeepSpec Summer School/]],
+#      Princeton, USA. July 16 - 27, 2018.
 
-   - /Formal Methods Meet JavaScript Workshop/
-     London, England. March 19 - 20, 2018.
+#    - /Google Web Security Summit/,
+#      Munich, Germany. June 25 - 27, 2018.
 
-   - /Google Compiler & Programming Language Summit/,
-     Munich, Germany. December 4 - 6, 2017.
+#    - /Formal Methods Meet JavaScript Workshop/
+#      London, England. March 19 - 20, 2018.
 
-   - [[http://www.sti.uniurb.it/events/fosad17][/International School on Foundations of Security Analysis and
-     Design/]],
-     Bertinoro, Italy. August 28 - September 2, 2017.
+#    - /Google Compiler & Programming Language Summit/,
+#      Munich, Germany. December 4 - 6, 2017.
+
+#    - [[http://www.sti.uniurb.it/events/fosad17][/International School on Foundations of Security Analysis and
+#      Design/]],
+#      Bertinoro, Italy. August 28 - September 2, 2017.
