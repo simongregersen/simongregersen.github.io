@@ -15,8 +15,8 @@
 
   I study programming languages, language-based security, and logics. I am
   particularly interested in developing program logics for verifying
-  implementations of distributed systems and applying semantics methods for
-  security properties.
+  implementations of distributed systems and applying semantics methods to
+  establish security properties.
 
 ** Contact
    *E-mail*: [[mailto:gregersen@cs.au.dk][gregersen@cs.au.dk]] \\
