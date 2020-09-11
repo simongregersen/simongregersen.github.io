@@ -5,7 +5,7 @@
 #+OPTIONS: author:nil creator:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css" />
 
-* Simon O. Gregersen
+* Simon Oddershede Gregersen
   -----
   #+ATTR_HTML: :style border-radius: 2%; width: 200px; float: right; margin: 0 0 20px 20px;
   [[./photo_color.jpg]]
@@ -13,32 +13,55 @@
   I am a PhD student in the [[https://cs.au.dk/research/logic-and-semantics][Logic and Semantics group]] in the Department of
   Computer science at Aarhus University. I am advised by [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
+  I study programming languages, language-based security, and logics. I am
+  particularly interested in developing program logics for verifying
+  implementations of distributed systems and applying semantics methods for
+  security properties.
+
 ** Contact
    *E-mail*: [[mailto:gregersen@cs.au.dk][gregersen@cs.au.dk]] \\
    *Office*: [[https://www.google.com/maps?ll%3D56.171759,10.188596&z%3D17&t%3Dh&hl%3Den&gl%3DUS&mapclient%3Dembed&q%3D56%25C2%25B010%252718.6%2522N%2B10%25C2%25B011%252718.0%2522E@56.171822,10.1883388][Turing 220 (5341-220), Aabogade 34, DK-8200 Aarhus N]]
 
 ** Publications
 
+   *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
+   S. O. Gregersen, J. Bay, A. Timany, and L. Birkedal \\
+   /Submitted for publication/ \\
+   ([[./papers/2021-tiniris.pdf][Preprint]], [[./papers/2021-tiniris-appendix.pdf][Technical Appendix]])   
+
+   *Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
+   L. Gondelman, S. O. Gregersen, A. Nieto, A. Timany, and L. Birkedal \\
+   /Submitted for publication/ \\
+   ([[./papers/2021-ccddb.pdf][Preprint]])   
+
    *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
-   M. Krogh-Jespersen, A. Timany, M. E. Ohlenbusch, S. O. Gregersen, L. Birkedal \\
-   /In ESOP 2020: European Symposium on Programming, Dublin, Ireland./ \\
-   ([[./papers/2020-esop-aneris-final.pdf][PDF]], [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]], [[./papers/2020-esop-aneris.tar.gz][Coq development]])
+   M. Krogh-Jespersen, A. Timany, M. E. Ohlenbusch, S. O. Gregersen, and L. Birkedal \\
+   /In ESOP 2020: European Symposium on Programming, Dublin, Ireland/ \\
+   ([[./papers/2020-esop-aneris-final.pdf][PDF]], [[./papers/2020-esop-aneris-final-appendix.pdf][Technical Appendix]], [[./papers/2020-esop-aneris.tar.gz][Coq development]])
 
    *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
-   S. O. Gregersen, S. E. Thomsen, A. Askarov \\
-   /In POST 2019: Principles of Security and Trust, Prague, Czech Republic./ \\
+   S. O. Gregersen, S. E. Thomsen, and A. Askarov \\
+   /In POST 2019: Principles of Security and Trust, Prague, Czech Republic/ \\
    ([[./papers/2019-post-depsec.pdf][PDF]], [[./papers/2019-post-depsec-full.pdf][Extended version]], [[https://github.com/simongregersen/DepSec][Idris development]])
 
 ** Teaching
 
-   - Spring 2018, 2019: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][Programming Languages]] (Bachelor's course) with [[https://cs.au.dk/~amoeller][Anders Møller]].
+  - Teaching assistant for Compilation under [[http://askarov.net][Aslan Askarov]] (BSc course, [[https://kursuskatalog.au.dk/en/course/100489/Compilation][2020]])
 
-   - Fall 2018: Teaching assistant for [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][Functional Programming]] (Master's course) with [[http://users-cs.au.dk/spitters/][Bas Spitters]].
+  - Guest lecturer in Program Analysis and Verification (MSc course, [[https://kursuskatalog.au.dk/en/course/92807/Program-Analysis-and-Verification][2019]]) on /Concurrency and Invariants/
 
-** Positions
-   - Student programmer. [[http://casa.au.dk/][Center for Advanced Software Analysis]], Aarhus University. 2017.
+  - Guest lecturer in Language-Based Security (MSc course, [[https://kursuskatalog.au.dk/en/course/82764/Language-Based-Security][2019]]) on /Spectre and Meltdown/
 
-   - Student programmer. [[http://www.ccieurope.com][CCI Europe A/S]], Aarhus. 2015 - 2017.
+  - Teaching assistant for Programming Languages under [[https://cs.au.dk/~amoeller][Anders Møller]] (BSc
+    course, [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][2018]] & [[https://kursuskatalog.au.dk/en/course/82755/Programming-Languages][2019]])
+
+  - Teaching assistant for Functional Programming under [[http://users-cs.au.dk/spitters/][Bas Spitters]] (MSc
+    course, [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][2018]])
+
+** Work Experience
+   - Student programmer at [[http://casa.au.dk/][Center for Advanced Software Analysis]], Aarhus University, 2017
+
+   - Student software developer at [[http://www.ccieurope.com][CCI Europe A/S]] (now Stibo DX), Aarhus, 2015 - 2017
 
 # ** Activities
 
