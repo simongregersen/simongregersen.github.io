@@ -26,18 +26,18 @@
 
    *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
    S. O. Gregersen, J. Bay, A. Timany, and L. Birkedal \\
-   /Submitted for publication/ \\
-   ([[./papers/2021-tiniris.pdf][Preprint]], [[./papers/2021-tiniris-appendix.pdf][Technical Appendix]])   
+   /Conditionally accepted at POPL 2021: Symposium on Principles of Programming Languages/ \\
+   ([[./papers/2021-tiniris.pdf][Preprint]], [[./papers/2021-tiniris-appendix.pdf][Technical appendix]])   
 
    *Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
    L. Gondelman, S. O. Gregersen, A. Nieto, A. Timany, and L. Birkedal \\
-   /Submitted for publication/ \\
+   /Conditionally accepted at POPL 2021: Symposium on Principles of Programming Languages/ \\
    ([[./papers/2021-ccddb.pdf][Preprint]])   
 
    *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
    M. Krogh-Jespersen, A. Timany, M. E. Ohlenbusch, S. O. Gregersen, and L. Birkedal \\
    /In ESOP 2020: European Symposium on Programming, Dublin, Ireland/ \\
-   ([[./papers/2020-esop-aneris-final.pdf][PDF]], [[./papers/2020-esop-aneris-final-appendix.pdf][Technical Appendix]], [[./papers/2020-esop-aneris.tar.gz][Coq development]])
+   ([[./papers/2020-esop-aneris-final.pdf][PDF]], [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]], [[./papers/2020-esop-aneris.tar.gz][Coq development]])
 
    *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
    S. O. Gregersen, S. E. Thomsen, and A. Askarov \\
