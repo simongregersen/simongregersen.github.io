@@ -27,7 +27,7 @@
    *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
    S. O. Gregersen, J. Bay, A. Timany, and L. Birkedal \\
    /Conditionally accepted at POPL 2021: Symposium on Principles of Programming Languages/ \\
-   ([[./papers/2021-tiniris.pdf][Preprint]], [[./papers/2021-tiniris-appendix.pdf][Technical appendix]])   
+   ([[./papers/2021-tiniris.pdf][Preprint]], [[./papers/2021-tiniris-appendix.pdf][Technical appendix]], [[https://github.com/logsem/iris-tini][Coq development]])   
 
    *Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
    L. Gondelman, S. O. Gregersen, A. Nieto, A. Timany, and L. Birkedal \\
