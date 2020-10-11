@@ -17,13 +17,31 @@ a {
     color: #2a7ae2;
     text-decoration: none;
 }
-a:visited {
-    color: #1756a9;org-toggle
-}
+
 a:hover {
     color: #111;
     text-decoration: underline;
 }
+.pubs a {
+    text-transform: lowercase;
+    font-variant: small-caps;
+    border: 1pt solid;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-left-color: currentcolor;
+    /* border-radius: 4pt; */
+    padding-left: 2pt;
+    padding-right: 2pt;
+    padding-bottom: 1pt;
+    margin-right: .25em;
+    font-size: 0.9em;
+
+}
+.pubs a:hover {
+    text-decoration: none;
+}
+
 h1,h2,h3 {
     line-height:1.5;
 }
