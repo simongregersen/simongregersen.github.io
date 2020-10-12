@@ -45,7 +45,7 @@
    *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
    M. Krogh-Jespersen, A. Timany, M. E. Ohlenbusch, S. O. Gregersen, and L. Birkedal \\
    /In ESOP 2020: European Symposium on Programming, Dublin, Ireland/ \\
-   [[./papers/2020-esop-aneris-final.pdf][PDF]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[./papers/2020-esop-aneris.tar.gz][Coq development]]
+   [[./papers/2020-esop-aneris-final.pdf][PDF]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]]
 
    *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
    S. O. Gregersen, S. E. Thomsen, and A. Askarov \\
