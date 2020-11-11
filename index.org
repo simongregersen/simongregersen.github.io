@@ -34,13 +34,13 @@
    #+begin_pubs
    *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
    S. O. Gregersen, J. Bay, A. Timany, and L. Birkedal \\
-   /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages, Virtual/ \\
+   /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages, Virtual, Denmark/ \\
    [[./papers/2021-tiniris.pdf][Preprint]] [[./papers/2021-tiniris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/iris-tini][Coq development]]
 
    *Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
    L. Gondelman, S. O. Gregersen, A. Nieto, A. Timany, and L. Birkedal \\
-   /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages, Virtual/ \\
-   [[./papers/2021-ccddb.pdf][Preprint]]
+   /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages, Virtual, Denmark/ \\
+   [[./papers/2021-ccddb.pdf][Preprint]] [[./papers/2021-popl-ccddb-appendix.pdf][Technical appendix]] [[https://doi.org/10.5281/zenodo.4066607][Coq development]]
 
    *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
    M. Krogh-Jespersen, A. Timany, M. E. Ohlenbusch, S. O. Gregersen, and L. Birkedal \\
