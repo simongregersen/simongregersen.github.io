@@ -34,8 +34,12 @@ a:hover {
     padding-bottom: 1pt;
     margin-right: .25em;
     font-size: 0.8em;
-
 }
+
+.pubs i {
+    color: gray;
+}
+
 .pubs a:hover {
     text-decoration: none;
 }
