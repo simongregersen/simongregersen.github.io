@@ -33,7 +33,7 @@
    *History-Sensitive Refinement in Separation Logic* \\
    A. Timany, S. O. Gregersen, L. Stefanesco, L. Gondelman, A. Nieto, and L. Birkedal \\
    /2022/ \\
-   [[./papers/2023-trillium.pdf][Preprint]] [[https://github.com/logsem/aneris/][Coq development]]
+   [[./papers/2022-trillium.pdf][Preprint]] [[https://github.com/logsem/aneris/][Coq development]]
    #+end_pubs
 
 ** Publications
