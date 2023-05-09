@@ -10,8 +10,8 @@
 * Simon Oddershede Gregersen
 
   I am a postdoctoral researcher in the [[https://cs.au.dk/research/logic-and-semantics][Logic and Semantics group]] at Aarhus
-  University. I am expecting to earn my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][Ph.D.]] from Aarhus University in March
-  2023 under the supervision of [[http://cs.au.dk/~birke/][Lars Birkedal]].
+  University. I earned my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][Ph.D.]] from Aarhus University in March 2023 under the
+  supervision of [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
   I study programming languages and program verification through the lens of higher-order separation logic.
 
@@ -26,48 +26,53 @@
 ** Unpublished Manuscripts
    #+begin_pubs
    *Asynchronous Probabilistic Couplings in Higher-Order Separation Logics* \\
-   S. O. Gregersen, A. Aguirre, P. G. Haselwarter, J. Tassarotti, and L. Birkedal \\
+   Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
    /2023/ \\
    [[https://arxiv.org/abs/2301.10061][Preprint]] [[https://github.com/logsem/clutch][Coq development]]
 
    *Trillium: History-Sensitive Refinement in Separation Logic* \\
-   A. Timany, S. O. Gregersen, L. Stefanesco, L. Gondelman, A. Nieto, and L. Birkedal \\
+   Amin Timany, Simon Oddershede Gregersen, L. Stefanesco, L. Gondelman, A. Nieto, and Lars Birkedal \\
    /2022/ \\
    [[./papers/2022-trillium.pdf][Preprint]] [[https://github.com/logsem/aneris/][Coq development]]
    #+end_pubs
 
 ** Publications
    #+begin_pubs
+   *Higher-Order Separation Logic for Distributed Systems and Security* \\
+   Simon Oddershede Gregersen \\
+   /Ph.D. dissertation, Aarhus University, March 2023/ \\
+   [[./papers/2023-thesis.pdf][PDF]]
+
    *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
-   S. O. Gregersen, J. Bay, A. Timany, and L. Birkedal \\
+   Simon Oddershede Gregersen, Johan Bay, Amin Timany, and Lars Birkedal \\
    /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
    [[./papers/2021-tiniris.pdf][PDF]] [[./papers/2021-tiniris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/iris-tini][Coq development]]
 
    *Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
-   L. Gondelman, S. O. Gregersen, A. Nieto, A. Timany, and L. Birkedal \\
+   Léon Gondelman, Simon Oddershede Gregersen, Abel Nieto, Amin Timany, and Lars Birkedal \\
    /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
    [[./papers/2021-ccddb.pdf][PDF]] [[./papers/2021-ccddb-appendix.pdf][Technical appendix]] [[https://doi.org/10.5281/zenodo.4066607][Coq development]]
 
    *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
-   M. Krogh-Jespersen, A. Timany, M. E. Ohlenbusch, S. O. Gregersen, and L. Birkedal \\
+   Morten Krogh-Jespersen, Amin Timany, Marit Edna Ohlenbusch, Simon Oddershede Gregersen, and Lars Birkedal \\
    /In ESOP 2020: European Symposium on Programming/ \\
    [[./papers/2020-esop-aneris-final.pdf][PDF]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]]
 
    *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
-   S. O. Gregersen, S. E. Thomsen, and A. Askarov \\
+   Simon Oddershede Gregersen, Søren Eller Thomsen, and Aslan Askarov \\
    /In POST 2019: Principles of Security and Trust/ \\
    [[./papers/2019-post-depsec.pdf][PDF]] [[./papers/2019-post-depsec-full.pdf][Extended version]] [[https://github.com/simongregersen/DepSec][Idris development]]
    #+end_pubs
 
 ** Teaching
-  - Teaching assistant for Compilation under [[http://askarov.net][Aslan Askarov]] (BSc course, [[https://kursuskatalog.au.dk/en/course/100489/Compilation][2020]])
+  - Teaching assistant for Compilation with [[http://askarov.net][Aslan Askarov]] (BSc course, [[https://kursuskatalog.au.dk/en/course/100489/Compilation][2020]])
   - Guest lecturer in Program Analysis and Verification (MSc course, [[https://kursuskatalog.au.dk/en/course/92807/Program-Analysis-and-Verification][2019]]) on
     /Concurrency and Invariants/
   - Guest lecturer in Language-Based Security (MSc course, [[https://kursuskatalog.au.dk/en/course/82764/Language-Based-Security][2019]]) on /Spectre and
     Meltdown/
-  - Teaching assistant for Programming Languages under [[https://cs.au.dk/~amoeller][Anders Møller]] (BSc
+  - Teaching assistant for Programming Languages with [[https://cs.au.dk/~amoeller][Anders Møller]] (BSc
     course, [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][2018]], [[https://kursuskatalog.au.dk/en/course/82755/Programming-Languages][2019]], [[https://kursuskatalog.au.dk/en/course/111642/Programming-Languages][2022]])
-  - Teaching assistant for Functional Programming under [[http://users-cs.au.dk/spitters/][Bas Spitters]] (MSc
+  - Teaching assistant for Functional Programming with [[http://users-cs.au.dk/spitters/][Bas Spitters]] (MSc
     course, [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][2018]])
 
 ** Work Experience
