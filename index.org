@@ -10,7 +10,7 @@
 * Simon Oddershede Gregersen
 
   I am a postdoctoral researcher in the [[https://cs.au.dk/research/logic-and-semantics][Logic and Semantics group]] at Aarhus
-  University. I earned my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][Ph.D.]] from Aarhus University in March 2023 under the
+  University. I earned my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from Aarhus University in March 2023 under the
   supervision of [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
   I study programming languages and program verification through the lens of higher-order separation logic.
@@ -23,16 +23,16 @@
   [[https://github.com/simongregersen][file:github.png]]
   [[https://scholar.google.com/citations?user=I-ltakEAAAAJ][file:scholar.png]]
 
-** Unpublished Manuscripts
+** Manuscripts
    #+begin_pubs
    *Asynchronous Probabilistic Couplings in Higher-Order Separation Logics* \\
    Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
-   /2023/ \\
+   /Conditionally accepted for publication at POPL 2024/ \\
    [[https://arxiv.org/abs/2301.10061][Preprint]] [[https://github.com/logsem/clutch][Coq development]]
 
    *Trillium: History-Sensitive Refinement in Separation Logic* \\
    Amin Timany, Simon Oddershede Gregersen, L. Stefanesco, L. Gondelman, A. Nieto, and Lars Birkedal \\
-   /2022/ \\
+   /Conditionally accepted for publication at POPL 2024/ \\
    [[./papers/2022-trillium.pdf][Preprint]] [[https://github.com/logsem/aneris/][Coq development]]
    #+end_pubs
 
@@ -40,13 +40,13 @@
    #+begin_pubs
    *Higher-Order Separation Logic for Distributed Systems and Security* \\
    Simon Oddershede Gregersen \\
-   /Ph.D. dissertation, Aarhus University, March 2023/ \\
-   [[./papers/2023-thesis.pdf][PDF]]
+   /PhD dissertation, Aarhus University, March 2023/ \\
+   [[./papers/2023-thesis.pdf][PDF]] [[./slides/2023-phd-defence.pdf][Slides]] 
 
    *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
    Simon Oddershede Gregersen, Johan Bay, Amin Timany, and Lars Birkedal \\
    /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-   [[./papers/2021-tiniris.pdf][PDF]] [[./papers/2021-tiniris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/iris-tini][Coq development]]
+   [[./papers/2021-tiniris.pdf][PDF]] [[./papers/2021-tiniris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/iris-tini][Coq development]] [[./slides/2021-popl.pdf][Slides]]
 
    *Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
    Léon Gondelman, Simon Oddershede Gregersen, Abel Nieto, Amin Timany, and Lars Birkedal \\
@@ -56,12 +56,27 @@
    *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
    Morten Krogh-Jespersen, Amin Timany, Marit Edna Ohlenbusch, Simon Oddershede Gregersen, and Lars Birkedal \\
    /In ESOP 2020: European Symposium on Programming/ \\
-   [[./papers/2020-esop-aneris-final.pdf][PDF]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]]
+   [[./papers/2020-esop-aneris-final.pdf][PDF]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]] [[./slides/2021-esop.pdf][Slides]]
 
    *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
    Simon Oddershede Gregersen, Søren Eller Thomsen, and Aslan Askarov \\
    /In POST 2019: Principles of Security and Trust/ \\
    [[./papers/2019-post-depsec.pdf][PDF]] [[./papers/2019-post-depsec-full.pdf][Extended version]] [[https://github.com/simongregersen/DepSec][Idris development]]
+   #+end_pubs
+
+** Selected talks
+   #+begin_pubs
+   *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
+   /Invited seminar at the Bristol Programming Languages Research group seminar, 19 Jul 2023/ \\
+   [[./slides/2023-bristol.pdf][Slides]]
+
+   *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
+   /Contributed talk at VeriProP, 17 Jul 2023/ \\
+   [[./slides/2023-veriprop.pdf][Slides]]
+
+   *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
+   /Invited seminar at the Chalmers ProgLog/Security seminar, 4 Nov 2020/ \\
+   [[./slides/2020-chalmers.pdf][Slides]]
    #+end_pubs
 
 ** Teaching
@@ -74,40 +89,3 @@
     course, [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][2018]], [[https://kursuskatalog.au.dk/en/course/82755/Programming-Languages][2019]], [[https://kursuskatalog.au.dk/en/course/111642/Programming-Languages][2022]])
   - Teaching assistant for Functional Programming with [[http://users-cs.au.dk/spitters/][Bas Spitters]] (MSc
     course, [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][2018]])
-
-** Work Experience
-   - Student programmer at [[http://casa.au.dk/][Center for Advanced Software Analysis]], Aarhus University, 2017
-   - Student software developer at [[http://www.ccieurope.com][CCI Europe A/S]] (now Stibo DX), Aarhus, 2015 - 2017
-
-# ** Activities
-
-#    - /[[https://www2.in.tum.de/mod19/][Marktoberdorf Summer School]]/,
-#      Marktoberdorf, Germany. July 31 - August 9, 2019.
-
-#    - /[[https://www.cs.uoregon.edu/research/summerschool/summer19/index.php][Oregon Programming Languages Summer Schoo]]l/,
-#      Eugene, USA. June 17 - 29, 2019.
-
-#    - /[[https://conf.researchr.org/home/etaps-2019][European Joint Conferences on Theory and Practice of Software (ETAPS)]]/,
-#      Prague, Czech Republic. April 8 - 11, 2019.
-
-#    - /Google Compiler & Programming Language Summit/,
-#      Munich, Germany. December 3 - 5, 2018.
-
-#    - [[http://cs.au.dk/research/logic-and-semantics/eutypes2018][/EUTypes WG meeting/]],
-#      Aarhus, Denmark. October 8 - 9, 2018.
-
-#    - [[https://deepspec.org/event/dsss18/][/DeepSpec Summer School/]],
-#      Princeton, USA. July 16 - 27, 2018.
-
-#    - /Google Web Security Summit/,
-#      Munich, Germany. June 25 - 27, 2018.
-
-#    - /Formal Methods Meet JavaScript Workshop/
-#      London, England. March 19 - 20, 2018.
-
-#    - /Google Compiler & Programming Language Summit/,
-#      Munich, Germany. December 4 - 6, 2017.
-
-#    - [[http://www.sti.uniurb.it/events/fosad17][/International School on Foundations of Security Analysis and
-#      Design/]],
-#      Bertinoro, Italy. August 28 - September 2, 2017.
