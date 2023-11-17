@@ -37,7 +37,7 @@
    /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
    [[https://arxiv.org/abs/2301.10061][Preprint]] [[https://github.com/logsem/clutch][Coq development]]
 
-   *Trillium: History-Sensitive Refinement in Separation Logic* \\
+   *Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement* \\
    Amin Timany, Simon Oddershede Gregersen, Léo Stefanesco, Léo Gondelman, Abel Nieto, and Lars Birkedal \\
    /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
    [[./papers/2024-trillium.pdf][Preprint]] [[https://github.com/logsem/aneris/][Coq development]]
