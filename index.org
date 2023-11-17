@@ -87,15 +87,13 @@
    [[./slides/2020-chalmers.pdf][Slides]]
    #+end_pubs
 
-** Teaching
-  - Teaching assistant for Compilation with [[http://askarov.net][Aslan Askarov]] (BSc course, [[https://kursuskatalog.au.dk/en/course/100489/Compilation][2020]])
-  - Guest lecturer in Program Analysis and Verification (MSc course, [[https://kursuskatalog.au.dk/en/course/92807/Program-Analysis-and-Verification][2019]]) on
-    /Concurrency and Invariants/
-  - Guest lecturer in Language-Based Security (MSc course, [[https://kursuskatalog.au.dk/en/course/82764/Language-Based-Security][2019]]) on /Spectre and
-    Meltdown/
-  - Teaching assistant for Programming Languages with [[https://cs.au.dk/~amoeller][Anders Møller]] (BSc
-    course, [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][2018]], [[https://kursuskatalog.au.dk/en/course/82755/Programming-Languages][2019]], [[https://kursuskatalog.au.dk/en/course/111642/Programming-Languages][2022]])
-  - Teaching assistant for Functional Programming with [[http://users-cs.au.dk/spitters/][Bas Spitters]] (MSc
-    course, [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][2018]])
-
-*
+# ** Teaching
+#   - Teaching assistant for Compilation with [[http://askarov.net][Aslan Askarov]] (BSc course, [[https://kursuskatalog.au.dk/en/course/100489/Compilation][2020]])
+#   - Guest lecturer in Program Analysis and Verification (MSc course, [[https://kursuskatalog.au.dk/en/course/92807/Program-Analysis-and-Verification][2019]]) on
+#     /Concurrency and Invariants/
+#   - Guest lecturer in Language-Based Security (MSc course, [[https://kursuskatalog.au.dk/en/course/82764/Language-Based-Security][2019]]) on /Spectre and
+#     Meltdown/
+#   - Teaching assistant for Programming Languages with [[https://cs.au.dk/~amoeller][Anders Møller]] (BSc
+#     course, [[https://kursuskatalog.au.dk/en/course/72475/Programming-Languages][2018]], [[https://kursuskatalog.au.dk/en/course/82755/Programming-Languages][2019]], [[https://kursuskatalog.au.dk/en/course/111642/Programming-Languages][2022]])
+#   - Teaching assistant for Functional Programming with [[http://users-cs.au.dk/spitters/][Bas Spitters]] (MSc
+#     course, [[https://kursuskatalog.au.dk/en/course/82741/Functional-Programming][2018]])
