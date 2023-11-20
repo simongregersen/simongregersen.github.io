@@ -14,8 +14,8 @@
   supervision of [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
   I study programming languages and program verification through the lens of
-  higher-order separation logic, particularly for concurrent, distributed, and
-  randomized programs.
+  higher-order separation logic, particularly for distributed and randomized
+  programs.
 
 ** Contact
    *E-mail*: [[mailto:gregersen@cs.au.dk][gregersen@cs.au.dk]] \\
@@ -32,7 +32,7 @@
 
 ** Publications
    #+begin_pubs
-   *Asynchronous Probabilistic Couplings in Higher-Order Separation Logics* \\
+   *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
    Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
    /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
    [[https://arxiv.org/abs/2301.10061][Preprint]] [[https://github.com/logsem/clutch][Coq development]]
