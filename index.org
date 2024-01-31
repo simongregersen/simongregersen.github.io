@@ -40,7 +40,7 @@
    *Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement* \\
    Amin Timany, Simon Oddershede Gregersen, Léo Stefanesco, Léon Gondelman, Abel Nieto, and Lars Birkedal \\
    /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-   [[./papers/2024-trillium.pdf][PDF]] [[./papers/2024-trillium.pdf][Extended version]] [[https://github.com/logsem/aneris/][Coq development]]
+   [[./papers/2024-trillium.pdf][PDF]] [[https://arxiv.org/abs/2109.07863][Extended version]] [[https://github.com/logsem/trillium][Coq development]]
 
    *Higher-Order Separation Logic for Distributed Systems and Security* \\
    Simon Oddershede Gregersen \\
