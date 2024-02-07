@@ -10,8 +10,8 @@
 * Simon Oddershede Gregersen
 
   I am a postdoctoral researcher in the [[https://cs.au.dk/research/logic-and-semantics][Logic and Semantics group]] at Aarhus
-  University. I earned my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from Aarhus University in March 2023 under the
-  supervision of [[http://cs.au.dk/~birke/][Lars Birkedal]].
+  University. I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][Ph.D.]] from Aarhus University, where I was advised by
+  [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
   I study programming languages and program verification through the lens of
   higher-order separation logic, particularly for distributed and randomized
