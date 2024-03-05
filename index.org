@@ -8,7 +8,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css" />
 
 * Simon Oddershede Gregersen
-  # -----
+  -----
   # #+ATTR_HTML: :style float: right; margin: 0 0 20px 20px; text-align: right;
   # #+begin_sidebar
   # #+ATTR_HTML: :style border-radius: 2%; width: 200px;
@@ -20,9 +20,8 @@
 
   I am currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingshaver/Formidling/Bevillingsoversigt/CF23_0791_Simon-Oddershede-Gregersen][Carlsberg Internationalization Fellowship (CF23-0791)]].
 
-  I study programming languages and program verification through the lens of
-  higher-order separation logic, particularly for distributed and randomized
-  programs.
+  I study programming languages and program verification.
+  I am particularly interested in applying higher-order separation logic to prove properties of distributed systems and randomized programs.
 
 ** Contact
    *E-mail*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
