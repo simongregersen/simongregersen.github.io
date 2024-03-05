@@ -15,14 +15,14 @@
   [[./photo.jpg]]
   #+end_sidebar
 
-  I am a postdoctoral fellow in the Computer Science Department at the [[https://cims.nyu.edu][Courant institute of Mathematical Sciences]] of [[https://www.nyu.edu][New York University]].
-  I am advised by [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].  
-  I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from [[http://au.dk][Aarhus University]] in 2023 under supervision of [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
+  I am a postdoctoral fellow in the Computer Science Department at the [[https://cims.nyu.edu][Courant Institute of Mathematical Sciences]] of [[https://www.nyu.edu][New York University]].
+  I am advised by [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
+  I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from [[http://cs.au.dk][Aarhus University]] in 2023 under supervision of [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
   I study programming languages and program verification.
-  I am particularly interested in developing higher-order separation logic to prove properties of distributed systems and randomized programs.
+  I am particularly interested in proving properties of distributed systems and randomized programs.
 
-  I am currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingshaver/Formidling/Bevillingsoversigt/CF23_0791_Simon-Oddershede-Gregersen][Carlsberg Internationalization Fellowship (CF23-0791)]].
+  My research is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingshaver/Formidling/Bevillingsoversigt/CF23_0791_Simon-Oddershede-Gregersen][Carlsberg Internationalization Fellowship (CF23-0791)]].
 
 ** Contact
    *E-mail*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
