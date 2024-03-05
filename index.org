@@ -1,6 +1,6 @@
 #+TITLE: Simon Oddershede Gregersen
 #+AUTHOR: Simon Oddershede Gregersen
-#+EMAIL: gregersen@cs.au.dk
+#+EMAIL: s.gregersen@nyu.edu
 #+OPTIONS: toc:nil num:0
 #+OPTIONS: author:nil creator:nil
 #+OPTIONS: html-style:nil html-scripts:nil
@@ -8,18 +8,25 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css" />
 
 * Simon Oddershede Gregersen
+  # -----
+  # #+ATTR_HTML: :style float: right; margin: 0 0 20px 20px; text-align: right;
+  # #+begin_sidebar
+  # #+ATTR_HTML: :style border-radius: 2%; width: 200px;
+  # [[./photo.jpg]]
+  # #+end_sidebar
 
-  I am a postdoctoral researcher in the [[https://cs.au.dk/research/logic-and-semantics][Logic and Semantics group]] at Aarhus
-  University. I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][Ph.D.]] from Aarhus University, where I was advised by
-  [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
+  I am a postdoctoral fellow in the Computer Science Department at the [[https://cims.nyu.edu][Courant Institute]] of [[https://www.nyu.edu][New York University]], working with [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
+  I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from [[http://au.dk][Aarhus University]] in 2023, where I was advised by [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
+
+  I am currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingshaver/Formidling/Bevillingsoversigt/CF23_0791_Simon-Oddershede-Gregersen][Carlsberg Internationalization Fellowship (CF23-0791)]].
 
   I study programming languages and program verification through the lens of
   higher-order separation logic, particularly for distributed and randomized
   programs.
 
 ** Contact
-   *E-mail*: [[mailto:gregersen@cs.au.dk][gregersen@cs.au.dk]] \\
-   *Office*: [[https://goo.gl/maps/mx387Cig2DpJN7EL6][Turing 220 (5341-220), Aabogade 34, DK-8200 Aarhus N]]
+   *E-mail*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
+   *Office*: Room 406, 60 Fifth Avenue, NY 10011
 
   [[https://orcid.org/0000-0001-6045-5232][file:orcid.png]]
   [[https://github.com/simongregersen][file:github.png]]
@@ -35,7 +42,7 @@
    *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
    Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
    /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-   [[./papers/2024-clutch.pdf][PDF]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]] 
+   [[./papers/2024-clutch.pdf][PDF]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]]
 
    *Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement* \\
    Amin Timany, Simon Oddershede Gregersen, Léo Stefanesco, Léon Gondelman, Abel Nieto, and Lars Birkedal \\
