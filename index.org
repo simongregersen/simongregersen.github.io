@@ -24,7 +24,7 @@
   I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from [[http://cs.au.dk][Aarhus University]] in 2023 under supervision of [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
   I study programming languages and program verification.
-  I am particularly interested in proving properties of distributed systems and randomized programs.
+  I am particularly interested in techniques for proving properties of distributed systems and randomized programs.
 
   My research is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingshaver/Formidling/Bevillingsoversigt/CF23_0791_Simon-Oddershede-Gregersen][Carlsberg Internationalization Fellowship (CF23-0791)]].
 
