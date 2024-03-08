@@ -1,15 +1,16 @@
 #+TITLE: Simon Oddershede Gregersen
 #+AUTHOR: Simon Oddershede Gregersen
 #+EMAIL: s.gregersen@nyu.edu
-#+OPTIONS: toc:nil num:0
-#+OPTIONS: author:nil creator:nil
-#+OPTIONS: html-style:nil html-scripts:nil
-#+HTML_DOCTYPE: html5
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css" />
+#+options: toc:nil num:0
+#+options: author:nil creator:nil
+#+options: html-style:nil html-scripts:nil
+#+options: timestamp:nil
+#+html_doctype: html5
+#+html_head: <link rel="stylesheet" type="text/css" href="org.css" />
 
 * Simon Oddershede Gregersen
   -----
-  #+ATTR_HTML: :style float: right; margin: 0 0 20px 20px; text-align: right;
+  #+attr_html: :style float: right; margin: 0 0 20px 20px; text-align: right;
   #+begin_sidebar
   #+ATTR_HTML: :style border-radius: 2%; width: 200px;
   [[./photo.jpg]]
@@ -32,14 +33,11 @@
    *E-mail*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
    *Office*: Room 406, 60 Fifth Avenue, New York, NY 10011
 
-  [[https://orcid.org/0000-0001-6045-5232][file:orcid.png]]
-  [[https://github.com/simongregersen][file:github.png]]
-  [[https://scholar.google.com/citations?user=I-ltakEAAAAJ][file:scholar.png]]
-
-# ** Manuscripts
-#    #+begin_pubs
-
-#    #+end_pubs
+   #+begin_connect
+   [[https://orcid.org/0000-0001-6045-5232][file:orcid.svg]]
+   [[https://github.com/simongregersen][file:github.svg]]
+   [[https://scholar.google.com/citations?user=I-ltakEAAAAJ][file:scholar.svg]]
+   #+end_connect
 
 ** Publications
    #+begin_pubs
