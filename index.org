@@ -1,4 +1,4 @@
-#+TITLE: Simon Oddershede Gregersen
+#+TITLE: Simon Oddershede Gregersen 
 #+AUTHOR: Simon Oddershede Gregersen
 #+EMAIL: s.gregersen@nyu.edu
 #+options: toc:nil num:0
@@ -8,93 +8,104 @@
 #+html_doctype: html5
 #+html_head: <link rel="stylesheet" type="text/css" href="org.css" />
 
-* Simon Oddershede Gregersen
-  -----
-  #+attr_html: :style float: right; margin: 0 0 20px 20px; text-align: right;
-  #+begin_sidebar
-  #+ATTR_HTML: :style border-radius: 2%; width: 200px;
-  [[./photo.jpg]]
-  #+end_sidebar
+-----
+#+attr_html: :style float: right; margin: 0 0 20px 20px; text-align: right;
+#+begin_sidebar
+#+ATTR_HTML: :style border-radius: 2%; width: 200px;
+[[./photo.jpg]]
+#+end_sidebar
 
-  # #+ATTR_HTML: :style color: red;
-  # I am no longer affiliated with Aarhus University and may loose access to this homepage.
-  # Please continue to my personal website at _*[[https://simongregersen.com][https://simongregersen.com]]*_.
+# #+ATTR_HTML: :style color: red;
+# I am no longer affiliated with Aarhus University and may loose access to this homepage.
+# Please continue to my personal website at _*[[https://simongregersen.com][https://simongregersen.com]]*_.
 
-  I am a postdoctoral fellow in the Computer Science Department at the [[https://cims.nyu.edu][Courant Institute of Mathematical Sciences]] of [[https://www.nyu.edu][New York University]].
-  I am advised by [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
-  I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from [[http://cs.au.dk][Aarhus University]] in 2023 under supervision of [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
+I am a postdoctoral fellow in the Computer Science Department at the [[https://cims.nyu.edu][Courant Institute of Mathematical Sciences]] of [[https://www.nyu.edu][New York University]].
+I am advised by [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
+I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from [[http://cs.au.dk][Aarhus University]] in 2023 where I was advised by [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
-  I study programming languages and program verification.
-  I am particularly interested in techniques for proving properties of distributed systems and randomized programs.
+I study programming languages and program verification.
+I am particularly interested in techniques for proving properties of distributed systems and randomized programs.
 
-  My research is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingshaver/Formidling/Bevillingsoversigt/CF23_0791_Simon-Oddershede-Gregersen][Carlsberg Internationalization Fellowship (CF23-0791)]].
+My work is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingshaver/Formidling/Bevillingsoversigt/CF23_0791_Simon-Oddershede-Gregersen][Carlsberg Internationalization Fellowship (CF23-0791)]].
 
-** Contact
-   *E-mail*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
-   *Office*: Room 406, 60 Fifth Avenue, New York, NY 10011
+* Contact
+:PROPERTIES:
+:CUSTOM_ID: contact
+:END:
 
-   #+begin_connect
-   [[https://orcid.org/0000-0001-6045-5232][file:orcid.svg]]
-   [[https://github.com/simongregersen][file:github.svg]]
-   [[https://scholar.google.com/citations?user=I-ltakEAAAAJ][file:scholar.svg]]
-   #+end_connect
+*E-mail*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
+*Office*: Room 406, 60 Fifth Avenue, New York, NY 10011
 
-** Publications
-   #+begin_pubs
-   *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
-   Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
-   /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-   [[./papers/2024-clutch.pdf][PDF]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]]
+#+begin_connect
+[[https://orcid.org/0000-0001-6045-5232][file:orcid.svg]]
+[[https://github.com/simongregersen][file:github.svg]]
+[[https://scholar.google.com/citations?user=I-ltakEAAAAJ][file:scholar.svg]]
+#+end_connect
 
-   *Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement* \\
-   Amin Timany, Simon Oddershede Gregersen, Léo Stefanesco, Jonas Kastberg Hinrichsen, Léon Gondelman, Abel Nieto, and Lars Birkedal \\
-   /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-   [[./papers/2024-trillium.pdf][PDF]] [[https://arxiv.org/abs/2109.07863][Extended version]] [[https://github.com/logsem/trillium][Coq development]]
+* Publications
+:PROPERTIES:
+:CUSTOM_ID: publications
+:END:
 
-   *Higher-Order Separation Logic for Distributed Systems and Security* \\
-   Simon Oddershede Gregersen \\
-   /PhD dissertation, Aarhus University, March 2023/ \\
-   [[./papers/2023-thesis.pdf][PDF]] [[./slides/2023-phd-defence.pdf][Slides]]
+#+begin_pubs
+*Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
+Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
+/In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
+[[./papers/2024-clutch.pdf][PDF]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]]
 
-   *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
-   Simon Oddershede Gregersen, Johan Bay, Amin Timany, and Lars Birkedal \\
-   /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-   [[./papers/2021-tiniris.pdf][PDF]] [[./papers/2021-tiniris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/iris-tini][Coq development]] [[./slides/2021-popl.pdf][Slides]]
+*Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement* \\
+Amin Timany, Simon Oddershede Gregersen, Léo Stefanesco, Jonas Kastberg Hinrichsen, Léon Gondelman, Abel Nieto, and Lars Birkedal \\
+/In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
+[[./papers/2024-trillium.pdf][PDF]] [[https://arxiv.org/abs/2109.07863][Extended version]] [[https://github.com/logsem/trillium][Coq development]]
 
-   *Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
-   Léon Gondelman, Simon Oddershede Gregersen, Abel Nieto, Amin Timany, and Lars Birkedal \\
-   /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-   [[./papers/2021-ccddb.pdf][PDF]] [[./papers/2021-ccddb-appendix.pdf][Technical appendix]] [[https://doi.org/10.5281/zenodo.4066607][Coq development]]
+*Higher-Order Separation Logic for Distributed Systems and Security* \\
+Simon Oddershede Gregersen \\
+/PhD dissertation, Aarhus University, March 2023/ \\
+[[./papers/2023-thesis.pdf][PDF]] [[./slides/2023-phd-defence.pdf][Slides]]
 
-   *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
-   Morten Krogh-Jespersen, Amin Timany, Marit Edna Ohlenbusch, Simon Oddershede Gregersen, and Lars Birkedal \\
-   /In ESOP 2020: European Symposium on Programming/ \\
-   [[./papers/2020-esop-aneris-final.pdf][PDF]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]] [[./slides/2021-esop.pdf][Slides]]
+*Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
+Simon Oddershede Gregersen, Johan Bay, Amin Timany, and Lars Birkedal \\
+/In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
+[[./papers/2021-tiniris.pdf][PDF]] [[./papers/2021-tiniris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/iris-tini][Coq development]] [[./slides/2021-popl.pdf][Slides]]
 
-   *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
-   Simon Oddershede Gregersen, Søren Eller Thomsen, and Aslan Askarov \\
-   /In POST 2019: Principles of Security and Trust/ \\
-   [[./papers/2019-post-depsec.pdf][PDF]] [[./papers/2019-post-depsec-full.pdf][Extended version]] [[https://github.com/simongregersen/DepSec][Idris development]]
-   #+end_pubs
+*Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
+Léon Gondelman, Simon Oddershede Gregersen, Abel Nieto, Amin Timany, and Lars Birkedal \\
+/In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
+[[./papers/2021-ccddb.pdf][PDF]] [[./papers/2021-ccddb-appendix.pdf][Technical appendix]] [[https://doi.org/10.5281/zenodo.4066607][Coq development]]
 
-** Selected talks
-   #+begin_pubs
-   *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
-   /Invited seminar at the Bristol Programming Languages Research group seminar, 19 Jul 2023/ \\
-   [[./slides/2023-bristol.pdf][Slides]]
+*Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
+Morten Krogh-Jespersen, Amin Timany, Marit Edna Ohlenbusch, Simon Oddershede Gregersen, and Lars Birkedal \\
+/In ESOP 2020: European Symposium on Programming/ \\
+[[./papers/2020-esop-aneris-final.pdf][PDF]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]] [[./slides/2021-esop.pdf][Slides]]
 
-   *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
-   /Contributed talk at VeriProP, 17 Jul 2023/ \\
-   [[./slides/2023-veriprop.pdf][Slides]]
+*A Dependently Typed Library for Static Information-Flow Control in Idris* \\
+Simon Oddershede Gregersen, Søren Eller Thomsen, and Aslan Askarov \\
+/In POST 2019: Principles of Security and Trust/ \\
+[[./papers/2019-post-depsec.pdf][PDF]] [[./papers/2019-post-depsec-full.pdf][Extended version]] [[https://github.com/simongregersen/DepSec][Idris development]]
+#+end_pubs
 
-   *Trillium: History-Sensitive Refinement in Separation Logic* \\
-   /Contributed talk at The Iris Workshop, 3 May 2022/ \\
-   [[./slides/2022-iris-workshop.pdf][Slides]]
+* Selected talks
+:PROPERTIES:
+:CUSTOM_ID: talks
+:END:
 
-   *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
-   /Invited seminar at the Chalmers ProgLog/Security seminar, 4 Nov 2020/ \\
-   [[./slides/2020-chalmers.pdf][Slides]]
-   #+end_pubs
+#+begin_pubs
+*Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
+/Invited seminar at the Bristol Programming Languages Research group seminar, 19 Jul 2023/ \\
+[[./slides/2023-bristol.pdf][Slides]]
+
+*Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
+/Contributed talk at VeriProP, 17 Jul 2023/ \\
+[[./slides/2023-veriprop.pdf][Slides]]
+
+*Trillium: History-Sensitive Refinement in Separation Logic* \\
+/Contributed talk at The Iris Workshop, 3 May 2022/ \\
+[[./slides/2022-iris-workshop.pdf][Slides]]
+
+*Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
+/Invited seminar at the Chalmers ProgLog/Security seminar, 4 Nov 2020/ \\
+[[./slides/2020-chalmers.pdf][Slides]]
+#+end_pubs
 
 # ** Teaching
 #   - Teaching assistant for Compilation with [[http://askarov.net][Aslan Askarov]] (BSc course, [[https://kursuskatalog.au.dk/en/course/100489/Compilation][2020]])

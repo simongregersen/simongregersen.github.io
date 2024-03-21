@@ -1,7 +1,6 @@
 body{
     background: #ffffff;
     color:#3a3a3a;
-    font-size: 12px;
     margin: 80px auto;
     max-width: 1000px;
     padding:0 10px;
@@ -63,15 +62,17 @@ h1,h2,h3,h4,h5,h6 {
     margin-top:2.5rem;
     margin-bottom:1.5rem
 }
-h3,h4,h5,h6 {
+h2,h3,h4,h5,h6 {
     font-weight:200;
     color:rgba(0,0,0,.45)
 }
 h1 {
-    font-size:2.5rem
+    font-size:1.8rem;
+    /* color: red; */
+              
 }
 h2 {
-    font-size:2.0rem
+    font-size:1.3rem
 }
 h3 {
     font-size:1.3rem
@@ -126,9 +127,9 @@ table {
 .collection-url{
     font-weight: bold;
 }
-.title{
+.title {
     text-align: left;
-    display: none;
+    /* display: none; */
 }
 .validation {
     display: none;
