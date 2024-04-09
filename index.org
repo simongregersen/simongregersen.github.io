@@ -20,7 +20,7 @@
 # Please continue to my personal website at _*[[https://simongregersen.com][https://simongregersen.com]]*_.
 
 I am a postdoctoral fellow in the Computer Science Department at the [[https://cims.nyu.edu][Courant Institute of Mathematical Sciences]] of [[https://www.nyu.edu][New York University]].
-I am advised by [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
+I am hosted and advised by [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
 I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from [[http://cs.au.dk][Aarhus University]] in 2023 where I was advised by [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
 I study programming languages and program verification.
@@ -51,7 +51,7 @@ My work is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingsh
 *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
 Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
 /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-[[./papers/2024-clutch.pdf][PDF]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]]
+[[./papers/2024-clutch.pdf][PDF]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]] [[https://www.youtube.com/watch?v=pWbixzvXcLU&list=PLyrlk8Xaylp4ZCixLbPzpALO4JEquzcvz&index=21][Talk]]
 
 *Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement* \\
 Amin Timany, Simon Oddershede Gregersen, Léo Stefanesco, Jonas Kastberg Hinrichsen, Léon Gondelman, Abel Nieto, and Lars Birkedal \\
@@ -76,7 +76,7 @@ Léon Gondelman, Simon Oddershede Gregersen, Abel Nieto, Amin Timany, and Lars B
 *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
 Morten Krogh-Jespersen, Amin Timany, Marit Edna Ohlenbusch, Simon Oddershede Gregersen, and Lars Birkedal \\
 /In ESOP 2020: European Symposium on Programming/ \\
-[[./papers/2020-esop-aneris-final.pdf][PDF]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]] [[./slides/2021-esop.pdf][Slides]]
+[[./papers/2020-esop-aneris-final.pdf][PDF]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]] [[./slides/2021-esop.pdf][Slides]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]]
 
 *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
 Simon Oddershede Gregersen, Søren Eller Thomsen, and Aslan Askarov \\
@@ -91,11 +91,11 @@ Simon Oddershede Gregersen, Søren Eller Thomsen, and Aslan Askarov \\
 
 #+begin_pubs
 *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
-/Invited seminar at the Bristol Programming Languages Research group seminar, 19 Jul 2023/ \\
+/Invited seminar at the Bristol Programming Languages Research group seminar, 19 July 2023/ \\
 [[./slides/2023-bristol.pdf][Slides]]
 
 *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
-/Contributed talk at VeriProP, 17 Jul 2023/ \\
+/Contributed talk at VeriProP, 17 July 2023/ \\
 [[./slides/2023-veriprop.pdf][Slides]]
 
 *Trillium: History-Sensitive Refinement in Separation Logic* \\
@@ -103,7 +103,7 @@ Simon Oddershede Gregersen, Søren Eller Thomsen, and Aslan Askarov \\
 [[./slides/2022-iris-workshop.pdf][Slides]]
 
 *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
-/Invited seminar at the Chalmers ProgLog/Security seminar, 4 Nov 2020/ \\
+/Invited seminar at the Chalmers ProgLog/Security seminar, 4 November 2020/ \\
 [[./slides/2020-chalmers.pdf][Slides]]
 #+end_pubs
 
