@@ -42,6 +42,15 @@ My work is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingsh
 [[https://scholar.google.com/citations?user=I-ltakEAAAAJ][file:scholar.svg]]
 #+end_connect
 
+* Preprints
+
+#+begin_pubs
+*Almost-Sure Termination by Guarded Refinement* \\
+Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
+/Submitted for publication/ \\
+[[./papers/2024-caliper.pdf][PDF]]
+#+end_pubs
+
 * Publications
 :PROPERTIES:
 :CUSTOM_ID: publications
