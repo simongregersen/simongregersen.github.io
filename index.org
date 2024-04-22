@@ -46,9 +46,14 @@ My work is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingsh
 
 #+begin_pubs
 *Almost-Sure Termination by Guarded Refinement* \\
-Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
+S. O. Gregersen, A. Aguirre, P. G. Haselwarter, J. Tassarotti, and L. Birkedal \\
 /Submitted for publication/ \\
 [[./papers/2024-caliper.pdf][PDF]]
+
+*Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs* \\
+A. Aguirre, P. G. Haselwarter, M. de Medeiros, K. H. Li, S. O. Gregersen, J. Tassarotti, and L. Birkedal \\
+/Submitted for publication/ \\
+[[./papers/2024-eris.pdf][PDF]]
 #+end_pubs
 
 * Publications
@@ -58,37 +63,37 @@ Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Ta
 
 #+begin_pubs
 *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
-Simon Oddershede Gregersen, Alejandro Aguirre, Philipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
+S. O. Gregersen, A. Aguirre, P. G. Haselwarter, J. Tassarotti, and L. Birkedal \\
 /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
 [[./papers/2024-clutch.pdf][PDF]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]] [[https://www.youtube.com/watch?v=pWbixzvXcLU&list=PLyrlk8Xaylp4ZCixLbPzpALO4JEquzcvz&index=21][Talk]]
 
 *Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement* \\
-Amin Timany, Simon Oddershede Gregersen, Léo Stefanesco, Jonas Kastberg Hinrichsen, Léon Gondelman, Abel Nieto, and Lars Birkedal \\
+A. Timany, S. O. Gregersen, L. Stefanesco, J. K. Hinrichsen, L. Gondelman, A. Nieto, and L. Birkedal \\
 /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
 [[./papers/2024-trillium.pdf][PDF]] [[https://arxiv.org/abs/2109.07863][Extended version]] [[https://github.com/logsem/trillium][Coq development]]
 
 *Higher-Order Separation Logic for Distributed Systems and Security* \\
-Simon Oddershede Gregersen \\
+S. O. Gregersen \\
 /PhD dissertation, Aarhus University, March 2023/ \\
 [[./papers/2023-thesis.pdf][PDF]] [[./slides/2023-phd-defence.pdf][Slides]]
 
 *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
-Simon Oddershede Gregersen, Johan Bay, Amin Timany, and Lars Birkedal \\
+S. O. Gregersen, J. Bay, A. Timany, and L. Birkedal \\
 /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
 [[./papers/2021-tiniris.pdf][PDF]] [[./papers/2021-tiniris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/iris-tini][Coq development]] [[./slides/2021-popl.pdf][Slides]]
 
 *Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
-Léon Gondelman, Simon Oddershede Gregersen, Abel Nieto, Amin Timany, and Lars Birkedal \\
+L. Gondelman, S. O. Gregersen, A. Nieto, A. Timany, and L. Birkedal \\
 /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
 [[./papers/2021-ccddb.pdf][PDF]] [[./papers/2021-ccddb-appendix.pdf][Technical appendix]] [[https://doi.org/10.5281/zenodo.4066607][Coq development]]
 
 *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
-Morten Krogh-Jespersen, Amin Timany, Marit Edna Ohlenbusch, Simon Oddershede Gregersen, and Lars Birkedal \\
+M. Krogh-Jespersen, A. Timany, M. E. Ohlenbusch, S. O. Gregersen, and L. Birkedal \\
 /In ESOP 2020: European Symposium on Programming/ \\
 [[./papers/2020-esop-aneris-final.pdf][PDF]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]] [[./slides/2021-esop.pdf][Slides]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]]
 
 *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
-Simon Oddershede Gregersen, Søren Eller Thomsen, and Aslan Askarov \\
+S. O. Gregersen, S. E. Thomsen, and A. Askarov \\
 /In POST 2019: Principles of Security and Trust/ \\
 [[./papers/2019-post-depsec.pdf][PDF]] [[./papers/2019-post-depsec-full.pdf][Extended version]] [[https://github.com/simongregersen/DepSec][Idris development]]
 #+end_pubs
