@@ -43,16 +43,19 @@ My work is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingsh
 #+end_connect
 
 * Preprints
+:PROPERTIES:
+:CUSTOM_ID: preprints
+:END:
 
 #+begin_pubs
 *Almost-Sure Termination by Guarded Refinement* \\
 S. O. Gregersen, A. Aguirre, P. G. Haselwarter, J. Tassarotti, and L. Birkedal \\
-/Submitted for publication/ \\
+/Under submission/ \\
 [[./papers/2024-caliper.pdf][PDF]]
 
 *Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs* \\
 A. Aguirre, P. G. Haselwarter, M. de Medeiros, K. H. Li, S. O. Gregersen, J. Tassarotti, and L. Birkedal \\
-/Submitted for publication/ \\
+/Under submission/ \\
 [[./papers/2024-eris.pdf][PDF]]
 #+end_pubs
 
@@ -104,6 +107,10 @@ S. O. Gregersen, S. E. Thomsen, and A. Askarov \\
 :END:
 
 #+begin_pubs
+*Trillium: Intensional Refinement in Higher-Order Separation Logic* \\
+/Contributed talk at New England Systems Verification Day, 26 April 2024/ \\
+[[./slides/2024-nesvd.pdf][Slides]]
+
 *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
 /Invited seminar at the Bristol Programming Languages Research group seminar, 19 July 2023/ \\
 [[./slides/2023-bristol.pdf][Slides]]
