@@ -50,12 +50,12 @@ My work is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingsh
 #+begin_pubs
 *Almost-Sure Termination by Guarded Refinement* \\
 S. O. Gregersen, A. Aguirre, P. G. Haselwarter, J. Tassarotti, and L. Birkedal \\
-/Under submission/ \\
+/2024, Submitted for publication/ \\
 [[./papers/2024-caliper.pdf][PDF]]
 
 *Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs* \\
 A. Aguirre, P. G. Haselwarter, M. de Medeiros, K. H. Li, S. O. Gregersen, J. Tassarotti, and L. Birkedal \\
-/Under submission/ \\
+/2024, Submitted for publication/ \\
 [[./papers/2024-eris.pdf][PDF]]
 #+end_pubs
 
