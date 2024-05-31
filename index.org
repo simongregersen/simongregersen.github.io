@@ -48,15 +48,20 @@ My work is currently funded by a [[https://www.carlsbergfondet.dk/en/Bevillingsh
 :END:
 
 #+begin_pubs
+*Tachis: Higher-Order Separation Logic with Credits for Expected Costs* \\
+P. G. Haselwarter, K. H. Li, M. de Medeiros, S. O. Gregersen, A. Aguirre, J. Tassarotti, L. Birkedal \\
+/2024, Submitted for publication/ \\
+[[https://arxiv.org/abs/2405.20083][arXiv]]
+
 *Almost-Sure Termination by Guarded Refinement* \\
 S. O. Gregersen, A. Aguirre, P. G. Haselwarter, J. Tassarotti, and L. Birkedal \\
 /2024, Submitted for publication/ \\
-[[./papers/2024-caliper.pdf][PDF]]
+[[https://arxiv.org/abs/2404.08494][arXiv]]
 
 *Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs* \\
 A. Aguirre, P. G. Haselwarter, M. de Medeiros, K. H. Li, S. O. Gregersen, J. Tassarotti, and L. Birkedal \\
 /2024, Submitted for publication/ \\
-[[./papers/2024-eris.pdf][PDF]]
+[[https://arxiv.org/abs/2404.14223][arXiv]]
 #+end_pubs
 
 * Publications
