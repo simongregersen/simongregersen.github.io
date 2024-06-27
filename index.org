@@ -51,17 +51,17 @@ My work is currently funded by a [[https://www.carlsbergfondet.dk/en/what-we-hav
 #+begin_pubs
 *Tachis: Higher-Order Separation Logic with Credits for Expected Costs* \\
 Phillipp G. Haselwarter, Kwing Hei Li, Markus de Medeiros, Simon O. Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal \\
-/2024, Submitted for publication/ \\
+/Accepted for publication at OOPSLA 2024/ \\
 [[https://arxiv.org/abs/2405.20083][arXiv]]
 
 *Almost-Sure Termination by Guarded Refinement* \\
 Simon O. Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
-/2024, Submitted for publication/ \\
+/Accepted for publication at ICFP 2024/ \\
 [[https://arxiv.org/abs/2404.08494][arXiv]]
 
 *Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs* \\
 Alejandro Aguirre, Phillipp G. Haselwarter, Markus de Medeiros, Kwing Hei Li, Simon O. Gregersen, Joseph Tassarotti, and Lars Birkedal \\
-/2024, Submitted for publication/ \\
+/Accepted for publication at ICFP 2024/ \\
 [[https://arxiv.org/abs/2404.14223][arXiv]]
 #+end_pubs
 
@@ -74,12 +74,12 @@ Alejandro Aguirre, Phillipp G. Haselwarter, Markus de Medeiros, Kwing Hei Li, Si
 *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
 Simon O. Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
 /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-[[./papers/2024-clutch.pdf][PDF]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]] [[https://www.youtube.com/watch?v=pWbixzvXcLU&list=PLyrlk8Xaylp4ZCixLbPzpALO4JEquzcvz&index=21][Talk]]
+[[./papers/2024-clutch.pdf][PDF]] [[https://doi.org/10.1145/3632868][DOI]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]] [[https://www.youtube.com/watch?v=pWbixzvXcLU&list=PLyrlk8Xaylp4ZCixLbPzpALO4JEquzcvz&index=21][Talk]]
 
 *Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement* \\
 Amin Timany, Simon O. Gregersen, Léo Stefanesco, Jonas K. Hinrichsen, Léon Gondelman, Abel Nieto, and Lars Birkedal \\
 /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-[[./papers/2024-trillium.pdf][PDF]] [[https://arxiv.org/abs/2109.07863][Extended version]] [[https://github.com/logsem/trillium][Coq development]]
+[[./papers/2024-trillium.pdf][PDF]] [[https://doi.org/10.1145/3632851][DOI]] [[https://arxiv.org/abs/2109.07863][Extended version]] [[https://github.com/logsem/trillium][Coq development]]
 
 *Higher-Order Separation Logic for Distributed Systems and Security* \\
 Simon O. Gregersen \\
@@ -89,22 +89,22 @@ Simon O. Gregersen \\
 *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
 Simon O. Gregersen, Johan Bay, Amin Timany, and Lars Birkedal \\
 /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-[[./papers/2021-tiniris.pdf][PDF]] [[./papers/2021-tiniris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/iris-tini][Coq development]] [[./slides/2021-popl.pdf][Slides]]
+[[./papers/2021-tiniris.pdf][PDF]] [[https://doi.org/10.1145/3434291][DOI]] [[./papers/2021-tiniris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/iris-tini][Coq development]] [[./slides/2021-popl.pdf][Slides]]
 
 *Distributed Causal Memory: Modular Specification and Verification in Higher-Order Distributed Separation Logic* \\
 Léon Gondelman, Simon O. Gregersen, Abel Nieto, Amin Timany, and Lars Birkedal \\
 /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-[[./papers/2021-ccddb.pdf][PDF]] [[./papers/2021-ccddb-appendix.pdf][Technical appendix]] [[https://doi.org/10.5281/zenodo.4066607][Coq development]]
+[[./papers/2021-ccddb.pdf][PDF]] [[https://doi.org/10.1145/3434323][DOI]] [[./papers/2021-ccddb-appendix.pdf][Technical appendix]] [[https://doi.org/10.5281/zenodo.4066607][Coq development]]
 
 *Aneris: A Mechanised Logic for Modular Reasoning about Distributed Systems* \\
 Morten Krogh-Jespersen, Amin Timany, Marit E. Ohlenbusch, Simon O. Gregersen, and Lars Birkedal \\
 /In ESOP 2020: European Symposium on Programming/ \\
-[[./papers/2020-esop-aneris-final.pdf][PDF]] [[./papers/2020-esop-aneris-final-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]] [[./slides/2021-esop.pdf][Slides]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]]
+[[./papers/2020-aneris.pdf][PDF]] [[https://doi.org/10.1007/978-3-030-44914-8_13][DOI]] [[./papers/2020-aneris-appendix.pdf][Technical appendix]] [[https://github.com/logsem/aneris][Coq development]] [[./slides/2021-esop.pdf][Slides]] [[https://www.morressier.com/article/aneris-mechanised-logic-modular-reasoning-distributed-systems/604907f41a80aac83ca25d44][Talk]]
 
 *A Dependently Typed Library for Static Information-Flow Control in Idris* \\
 Simon O. Gregersen, Søren E. Thomsen, and Aslan Askarov \\
 /In POST 2019: Principles of Security and Trust/ \\
-[[./papers/2019-post-depsec.pdf][PDF]] [[./papers/2019-post-depsec-full.pdf][Extended version]] [[https://github.com/simongregersen/DepSec][Idris development]]
+[[./papers/2019-post-depsec.pdf][PDF]] [[https://doi.org/10.1007/978-3-030-17138-4_3][DOI]] [[./papers/2019-post-depsec-full.pdf][Extended version]] [[https://github.com/simongregersen/DepSec][Idris development]]
 #+end_pubs
 
 * Selected talks
