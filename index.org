@@ -40,6 +40,7 @@ My work is currently funded by a [[https://www.carlsbergfondet.dk/en/what-we-hav
 [[https://orcid.org/0000-0001-6045-5232][file:orcid.svg]]
 [[https://github.com/simongregersen][file:github.svg]]
 [[https://scholar.google.com/citations?user=I-ltakEAAAAJ][file:scholar.svg]]
+[[https://dblp.org/pid/263/1059.html][file:dblp.svg]]
 #+end_connect
 
 * Preprints
