@@ -49,20 +49,15 @@ My work is currently funded by a [[https://www.carlsbergfondet.dk/en/what-we-hav
 :END:
 
 #+begin_pubs
+*Approximate Relational Reasoning for Higher-Order Probabilistic Programs* \\
+Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon O. Gregersen, Joseph Tassarotti, Lars Birkedal \\
+/Submitted for publication/ \\
+[[https://arxiv.org/abs/2407.14107][arXiv]]
+
 *Tachis: Higher-Order Separation Logic with Credits for Expected Costs* \\
 Phillipp G. Haselwarter, Kwing Hei Li, Markus de Medeiros, Simon O. Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal \\
 /Accepted for publication at OOPSLA 2024/ \\
 [[https://arxiv.org/abs/2405.20083][arXiv]]
-
-*Almost-Sure Termination by Guarded Refinement* \\
-Simon O. Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
-/Accepted for publication at ICFP 2024/ \\
-[[https://arxiv.org/abs/2404.08494][arXiv]]
-
-*Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs* \\
-Alejandro Aguirre, Phillipp G. Haselwarter, Markus de Medeiros, Kwing Hei Li, Simon O. Gregersen, Joseph Tassarotti, and Lars Birkedal \\
-/Accepted for publication at ICFP 2024/ \\
-[[https://arxiv.org/abs/2404.14223][arXiv]]
 #+end_pubs
 
 * Publications
@@ -71,15 +66,25 @@ Alejandro Aguirre, Phillipp G. Haselwarter, Markus de Medeiros, Kwing Hei Li, Si
 :END:
 
 #+begin_pubs
+*Almost-Sure Termination by Guarded Refinement* \\
+Simon O. Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
+/In ICFP 2024: ACM SIGPLAN International Conference on Functional Programming/ \\
+[[./papers/2024-caliper.pdf][PDF]] [[https://arxiv.org/abs/2404.08494][arXiv]] [[https://zenodo.org/records/11481248][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
+
+*Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs* \\
+Alejandro Aguirre, Phillipp G. Haselwarter, Markus de Medeiros, Kwing Hei Li, Simon O. Gregersen, Joseph Tassarotti, and Lars Birkedal \\
+/In ICFP 2024: ACM SIGPLAN International Conference on Functional Programming/ \\
+[[./papers/2024-eris.pdf][PDF]] [[https://arxiv.org/abs/2404.14223][arXiv]] [[https://zenodo.org/records/11489778][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
+
 *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
 Simon O. Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph Tassarotti, and Lars Birkedal \\
 /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-[[./papers/2024-clutch.pdf][PDF]] [[https://doi.org/10.1145/3632868][DOI]] [[https://arxiv.org/abs/2301.10061][Extended version]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]] [[https://www.youtube.com/watch?v=pWbixzvXcLU&list=PLyrlk8Xaylp4ZCixLbPzpALO4JEquzcvz&index=21][Talk]]
+[[./papers/2024-clutch.pdf][PDF]] [[https://doi.org/10.1145/3632868][DOI]] [[https://arxiv.org/abs/2301.10061][arXiv]] [[https://zenodo.org/records/8424490][Artifact]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-popl.pdf][Slides]] [[https://www.youtube.com/watch?v=pWbixzvXcLU&list=PLyrlk8Xaylp4ZCixLbPzpALO4JEquzcvz&index=21][Talk]]
 
 *Trillium: Higher-Order Concurrent and Distributed Separation Logic for Intensional Refinement* \\
 Amin Timany, Simon O. Gregersen, Léo Stefanesco, Jonas K. Hinrichsen, Léon Gondelman, Abel Nieto, and Lars Birkedal \\
 /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-[[./papers/2024-trillium.pdf][PDF]] [[https://doi.org/10.1145/3632851][DOI]] [[https://arxiv.org/abs/2109.07863][Extended version]] [[https://github.com/logsem/trillium][Coq development]]
+[[./papers/2024-trillium.pdf][PDF]] [[https://doi.org/10.1145/3632851][DOI]] [[https://arxiv.org/abs/2109.07863][arXiv]] [[https://github.com/logsem/trillium][Coq development]]
 
 *Higher-Order Separation Logic for Distributed Systems and Security* \\
 Simon O. Gregersen \\
