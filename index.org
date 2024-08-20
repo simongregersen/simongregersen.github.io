@@ -19,14 +19,13 @@
 # I am no longer affiliated with Aarhus University and may loose access to this homepage.
 # Please continue to my personal website at _*[[https://simongregersen.com][https://simongregersen.com]]*_.
 
-I am a postdoctoral fellow in the Computer Science Department at the [[https://cims.nyu.edu][Courant Institute of Mathematical Sciences]] of [[https://www.nyu.edu][New York University]].
-I am hosted and supervised by [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
+I am a postdoctoral fellow in the Computer Science Department at the [[https://cims.nyu.edu][Courant Institute]] of [[https://www.nyu.edu][New York University]], working with [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
 I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from [[http://cs.au.dk][Aarhus University]] in 2023 under supervision of [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
 I study programming languages and program verification.
 I am particularly interested in formal techniques for proving properties of distributed systems and randomized programs.
 
-My work is currently funded by a [[https://www.carlsbergfondet.dk/en/what-we-have-funded/cf23-0791/][Internationalization Fellowship from the Carlsberg Foundation (CF23-0791)]].
+My work is currently supported by a [[https://www.carlsbergfondet.dk/en/what-we-have-funded/cf23-0791/][Internationalization Fellowship from the Carlsberg Foundation (CF23-0791)]].
 
 * Contact
 :PROPERTIES:
