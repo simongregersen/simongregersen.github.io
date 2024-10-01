@@ -52,11 +52,6 @@ My work is currently supported by a [[https://www.carlsbergfondet.dk/en/what-we-
 Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal \\
 /Submitted for publication/ \\
 [[https://arxiv.org/abs/2407.14107][arXiv]]
-
-*Tachis: Higher-Order Separation Logic with Credits for Expected Costs* \\
-Phillipp G. Haselwarter, Kwing Hei Li, Markus de Medeiros, Simon Oddershede Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal \\
-/Accepted for publication at OOPSLA 2024/ \\
-[[https://arxiv.org/abs/2405.20083][arXiv]]
 #+end_pubs
 
 * Publications
@@ -65,6 +60,11 @@ Phillipp G. Haselwarter, Kwing Hei Li, Markus de Medeiros, Simon Oddershede Greg
 :END:
 
 #+begin_pubs
+*Tachis: Higher-Order Separation Logic with Credits for Expected Costs* \\
+Phillipp G. Haselwarter, Kwing Hei Li, Markus de Medeiros, Simon Oddershede Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal \\
+/In OOPSLA 2024: ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications/ \\
+[[./papers/2024-tachis.pdf][PDF]] [[https://arxiv.org/abs/2405.20083][arXiv]] [[https://zenodo.org/records/12659527][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
+
 *Almost-Sure Termination by Guarded Refinement* \\
 Simon Oddershede Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal \\
 /In ICFP 2024: ACM SIGPLAN International Conference on Functional Programming/ \\
@@ -73,6 +73,7 @@ Simon Oddershede Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph T
 *Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs* \\
 Alejandro Aguirre, Phillipp G. Haselwarter, Markus de Medeiros, Kwing Hei Li, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal \\
 /In ICFP 2024: ACM SIGPLAN International Conference on Functional Programming/ \\
+_Recipient of the ICFP 2024 Distinguished Paper Award_ \\
 [[./papers/2024-eris.pdf][PDF]] [[https://doi.org/10.1145/3674635][DOI]] [[https://arxiv.org/abs/2404.14223][arXiv]] [[https://zenodo.org/records/11489778][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
 
 *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
