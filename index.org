@@ -25,7 +25,7 @@ I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation
 I study programming languages and program verification.
 I am particularly interested in formal techniques for proving properties of distributed systems and randomized programs.
 
-My work is currently supported by a [[https://www.carlsbergfondet.dk/en/what-we-have-funded/cf23-0791/][Internationalization Fellowship from the Carlsberg Foundation (CF23-0791)]].
+My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we-have-funded/cf23-0791/][Internationalization Fellowship from the Carlsberg Foundation (CF23-0791)]].
 
 * Contact
 :PROPERTIES:
