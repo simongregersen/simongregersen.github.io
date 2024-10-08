@@ -68,13 +68,13 @@ Phillipp G. Haselwarter, Kwing Hei Li, Markus de Medeiros, Simon Oddershede Greg
 *Almost-Sure Termination by Guarded Refinement* \\
 Simon Oddershede Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal \\
 /In ICFP 2024: ACM SIGPLAN International Conference on Functional Programming/ \\
-[[./papers/2024-caliper.pdf][PDF]] [[https://doi.org/10.1145/3674632][DOI]] [[https://arxiv.org/abs/2404.08494][arXiv]] [[https://zenodo.org/records/11481248][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
+[[./papers/2024-caliper.pdf][PDF]] [[https://doi.org/10.1145/3674632][DOI]] [[https://arxiv.org/abs/2404.08494][arXiv]] [[https://zenodo.org/records/11481248][Artifact]] [[https://github.com/logsem/clutch][Coq development]] [[./slides/2024-icfp-caliper.pdf][Slides]] [[https://www.youtube.com/live/F70QZaMoYJQ?feature=shared&t=19706][Talk]]
 
 *Error Credits: Resourceful Reasoning about Error Bounds for Higher-Order Probabilistic Programs* \\
 Alejandro Aguirre, Phillipp G. Haselwarter, Markus de Medeiros, Kwing Hei Li, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal \\
 /In ICFP 2024: ACM SIGPLAN International Conference on Functional Programming/ \\
 _Recipient of the ICFP 2024 Distinguished Paper Award_ \\
-[[./papers/2024-eris.pdf][PDF]] [[https://doi.org/10.1145/3674635][DOI]] [[https://arxiv.org/abs/2404.14223][arXiv]] [[https://zenodo.org/records/11489778][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
+[[./papers/2024-eris.pdf][PDF]] [[https://doi.org/10.1145/3674635][DOI]] [[https://arxiv.org/abs/2404.14223][arXiv]] [[https://zenodo.org/records/11489778][Artifact]] [[https://github.com/logsem/clutch][Coq development]] [[https://www.youtube.com/live/F70QZaMoYJQ?feature=shared&t=17369][Talk]]
 
 *Asynchronous Probabilistic Couplings in Higher-Order Separation Logic* \\
 Simon Oddershede Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal \\
