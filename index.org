@@ -63,7 +63,7 @@ Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Greger
 *Tachis: Higher-Order Separation Logic with Credits for Expected Costs* \\
 Phillipp G. Haselwarter, Kwing Hei Li, Markus de Medeiros, Simon Oddershede Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal \\
 /In OOPSLA 2024: ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications/ \\
-[[./papers/2024-tachis.pdf][PDF]] [[https://arxiv.org/abs/2405.20083][arXiv]] [[https://zenodo.org/records/12659527][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
+[[./papers/2024-tachis.pdf][PDF]] [[https://doi.org/10.1145/3689753][DOI]] [[https://arxiv.org/abs/2405.20083][arXiv]] [[https://zenodo.org/records/12659527][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
 
 *Almost-Sure Termination by Guarded Refinement* \\
 Simon Oddershede Gregersen, Alejandro Aguirre, Phillipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal \\
