@@ -61,7 +61,7 @@ My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we
 *Approximate Relational Reasoning for Higher-Order Probabilistic Programs* \\
 Philipp G. Haselwarter, Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Joseph Tassarotti, Lars Birkedal \\
 /In POPL 2025: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
-[[./papers/2025-approxis.pdf][PDF]] [[https://arxiv.org/abs/2407.14107][arXiv]] [[https://doi.org/10.5281/zenodo.13939302][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
+[[./papers/2025-approxis.pdf][PDF]] [[https://dl.acm.org/doi/10.1145/3704877][DOI]] [[https://arxiv.org/abs/2407.14107][arXiv]] [[https://doi.org/10.5281/zenodo.13939302][Artifact]] [[https://github.com/logsem/clutch][Coq development]]
 
 *Tachis: Higher-Order Separation Logic with Credits for Expected Costs* \\
 Phillipp G. Haselwarter, Kwing Hei Li, Markus de Medeiros, Simon Oddershede Gregersen, Alejandro Aguirre, Joseph Tassarotti, Lars Birkedal \\
