@@ -39,14 +39,16 @@ My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we
 #+end_connect
 
 
-# * Preprints
-# :PROPERTIES:
-# :CUSTOM_ID: preprints
-# :END:
+* Preprints
+:PROPERTIES:
+:CUSTOM_ID: preprints
+:END:
 
-# #+begin_pubs
-
-# #+end_pubs
+#+begin_pubs
+*Logical Relations for Formally Verified Authenticated Data Structures* \\
+Simon Oddershede Gregersen, Chaitanya Agarwal, Joseph Tassarotti \\
+[[https://arxiv.org/abs/2501.10802][arXiv]]
+#+end_pubs
 
 * Publications
 :PROPERTIES:
