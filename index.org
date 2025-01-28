@@ -29,7 +29,7 @@ My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we
 :END:
 
 *E-mail*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
-*Office*: 406, 60 Fifth Avenue, New York, NY 10011
+[[./CV.pdf][CV]] (January 2025)
 
 #+begin_connect
 [[https://orcid.org/0000-0001-6045-5232][file:orcid.svg]]
@@ -37,7 +37,6 @@ My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we
 [[https://scholar.google.com/citations?user=I-ltakEAAAAJ][file:scholar.svg]]
 [[https://dblp.org/pid/263/1059.html][file:dblp.svg]]
 #+end_connect
-
 
 * Preprints
 :PROPERTIES:
@@ -87,11 +86,6 @@ Amin Timany, Simon Oddershede Gregersen, Léo Stefanesco, Jonas K. Hinrichsen, L
 /In POPL 2024: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
 [[./papers/2024-trillium.pdf][PDF]] [[https://doi.org/10.1145/3632851][DOI]] [[https://arxiv.org/abs/2109.07863][arXiv]] [[https://github.com/logsem/trillium][Coq development]]
 
-*Higher-Order Separation Logic for Distributed Systems and Security* \\
-Simon Oddershede Gregersen \\
-/PhD dissertation, Aarhus University, March 2023/ \\
-[[./papers/2023-thesis.pdf][PDF]] [[./slides/2023-phd-defence.pdf][Slides]]
-
 *Mechanized Logical Relations for Termination-Insensitive Noninterference* \\
 Simon Oddershede Gregersen, Johan Bay, Amin Timany, Lars Birkedal \\
 /In POPL 2021: ACM SIGPLAN Symposium on Principles of Programming Languages/ \\
@@ -111,6 +105,14 @@ Morten Krogh-Jespersen, Amin Timany, Marit E. Ohlenbusch, Simon Oddershede Grege
 Simon Oddershede Gregersen, Søren E. Thomsen, Aslan Askarov \\
 /In POST 2019: Principles of Security and Trust/ \\
 [[./papers/2019-post-depsec.pdf][PDF]] [[https://doi.org/10.1007/978-3-030-17138-4_3][DOI]] [[./papers/2019-post-depsec-full.pdf][Extended version]] [[https://github.com/simongregersen/DepSec][Idris development]]
+#+end_pubs
+
+* Dissertation
+#+begin_pubs
+*Higher-Order Separation Logic for Distributed Systems and Security* \\
+Simon Oddershede Gregersen \\
+/PhD dissertation, Aarhus University, March 2023/ \\
+[[./papers/2023-thesis.pdf][PDF]] [[./slides/2023-phd-defence.pdf][Slides]]
 #+end_pubs
 
 * Selected talks
