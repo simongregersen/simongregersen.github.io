@@ -47,6 +47,10 @@ My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we
 *Logical Relations for Formally Verified Authenticated Data Structures* \\
 Simon Oddershede Gregersen, Chaitanya Agarwal, Joseph Tassarotti \\
 [[https://arxiv.org/abs/2501.10802][arXiv]]
+
+*Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs* \\
+Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Philipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal \\
+[[https://arxiv.org/abs/2503.04512][arXiv]]
 #+end_pubs
 
 * Publications
