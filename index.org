@@ -30,7 +30,7 @@ My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we
 :END:
 
 *E-mail*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
-[[./CV.pdf][CV]] (March 2025)
+[[./CV.pdf][CV]] (April 2025)
 
 #+begin_connect
 [[https://orcid.org/0000-0001-6045-5232][file:orcid.svg]]
@@ -59,7 +59,7 @@ Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Philipp G. Haselwar
 #+begin_pubs
 *Logical Relations for Formally Verified Authenticated Data Structures* \\
 Simon Oddershede Gregersen, Chaitanya Agarwal, Joseph Tassarotti \\
-/To appear in CCS 2025: ACM Conference on Computer and Communications Security/ \\
+/To appear in CCS 2025: ACM SIGSAC Conference on Computer and Communications Security/ \\
 [[https://arxiv.org/abs/2501.10802][arXiv]]
 
 *Approximate Relational Reasoning for Higher-Order Probabilistic Programs* \\
