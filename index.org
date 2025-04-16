@@ -128,6 +128,10 @@ Simon Oddershede Gregersen \\
 :END:
 
 #+begin_pubs
+*Logical Relations for Formally Verified Authenticated Data Structures* \\
+/Invited talk at the VU Amsterdam PLSec reading group, 16 April, 2025/  \\
+[[./slides/2025-vu.pdf][Slides]]
+
 *Trillium: Intensional Refinement in Higher-Order Separation Logic* \\
 /Contributed talk at New England Systems Verification Day, 26 April 2024/ \\
 [[./slides/2024-nesvd.pdf][Slides]]
