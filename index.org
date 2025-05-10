@@ -129,6 +129,10 @@ Simon Oddershede Gregersen \\
 
 #+begin_pubs
 *Logical Relations for Formally Verified Authenticated Data Structures* \\
+/New Jersey Programming Languages and Systems Seminar, 9 May, 2025/ \\
+[[./slides/2025-njpls.pdf][Slides]]
+
+*Logical Relations for Formally Verified Authenticated Data Structures* \\
 /Invited talk at the VU Amsterdam PLSec reading group, 16 April, 2025/  \\
 [[./slides/2025-vu.pdf][Slides]]
 
