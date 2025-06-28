@@ -15,14 +15,16 @@
 [[./photo.png]]
 #+end_sidebar
 
-I am a postdoctoral fellow in the Computer Science Department at the [[https://cims.nyu.edu][Courant Institute]] of [[https://www.nyu.edu][New York University]], working with [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
-I obtained my [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][PhD]] from [[http://cs.au.dk][Aarhus University]] in 2023 where I was advised by [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
+I am a postdoctoral researcher at the [[https://cims.nyu.edu][Courant Institute]] of [[https://www.nyu.edu][New York University]], working with [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
+I received my PhD from [[http://cs.au.dk][Aarhus University]] in 2023 under the guidance of [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
-I study programming languages and program verification.
-My research focuses on techniques to develop formally verified software systems that come with machine-checked mathematical proofs.
-I am particularly interested in security properties, distributed systems, and randomized programs.
+My research focuses on programming languages and program verification, in particular for security properties and randomized programs. 
+Specifically, I work on techniques to develop formally verified software systems that come with machine-checked mathematical proofs. 
+I devise and apply new techniques, such as separation logics, logical relations, and semantic models, that make it feasible or easier to construct such proofs.
 
 My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we-have-funded/cf23-0791/][Internationalization Fellowship from the Carlsberg Foundation (CF23-0791)]].
+
+_In January 2026, I will start as a tenure-track faculty at [[https://cispa.de/][CISPA]]. I will be recruiting interns, PhD students, and postdocs. If you are interested, I encourage you to reach out._
 
 * Contact
 :PROPERTIES:
@@ -119,7 +121,7 @@ Simon Oddershede Gregersen, Søren E. Thomsen, Aslan Askarov \\
 *Higher-Order Separation Logic for Distributed Systems and Security* \\
 Simon Oddershede Gregersen \\
 /PhD dissertation, Aarhus University, March 2023/ \\
-[[./papers/2023-thesis.pdf][PDF]] [[./slides/2023-phd-defence.pdf][Slides]]
+[[./papers/2023-thesis.pdf][PDF]] [[https://pure.au.dk/portal/en/publications/higherorder-separation-logic-for-distributed-systems-and-security(ff07ec22-10d5-4e8e-86da-3e2a5609b2bd).html][AU]] [[./slides/2023-phd-defence.pdf][Slides]]
 #+end_pubs
 
 * Selected talks
@@ -129,7 +131,11 @@ Simon Oddershede Gregersen \\
 
 #+begin_pubs
 *Logical Relations for Formally Verified Authenticated Data Structures* \\
-/New Jersey Programming Languages and Systems Seminar, 9 May, 2025/ \\
+/Contributed talk at The Iris Workshop, 2 June 2025/ \\
+[[./slides/2025-iris-workshop.pdf][Slides]]
+
+*Logical Relations for Formally Verified Authenticated Data Structures* \\
+/Contributed talk at the New Jersey Programming Languages and Systems Seminar, 9 May, 2025/ \\
 [[./slides/2025-njpls.pdf][Slides]]
 
 *Logical Relations for Formally Verified Authenticated Data Structures* \\
