@@ -9,7 +9,6 @@
 #+html_head: <link rel="stylesheet" type="text/css" href="org.css" />
 
 -----
-#+attr_html: :style float: right; margin: 0 0 20px 20px; text-align: right;
 #+begin_sidebar
 #+ATTR_HTML: :style border-radius: 2%; width: 220px;
 [[./photo.png]]
@@ -19,12 +18,12 @@ I am a postdoctoral researcher at the [[https://cims.nyu.edu][Courant Institute]
 I received my PhD from [[http://cs.au.dk][Aarhus University]] in 2023 under the guidance of [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
 My research focuses on programming languages and program verification, in particular for security properties, distributed systems, and randomized programs. 
-Specifically, I work on techniques to develop formally verified software systems that come with machine-checked mathematical proofs. 
-I devise and apply new techniques, such as separation logics and logical relations, that make it feasible or easier to construct such proofs.
+Specifically, I work on techniques to develop formally verified software systems that come with machine-checked proofs. 
+I devise and apply new techniques, such as program logics and logical relations, that make it feasible or easier to construct such proofs.
 
 My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we-have-funded/cf23-0791/][Internationalization Fellowship from the Carlsberg Foundation (CF23-0791)]].
 
-_In January 2026, I will start as a tenure-track faculty at [[https://cispa.de/][CISPA]]. I will be recruiting interns, PhD students, and postdocs. If you might be interested, I encourage you to reach out._
+_In January 2026, I will start as a tenure-track faculty at [[https://cispa.de/][CISPA]]. I will be recruiting interns and PhD students. If you might be interested, I encourage you to reach out._
 
 * Contact
 :PROPERTIES:

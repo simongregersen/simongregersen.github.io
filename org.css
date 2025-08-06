@@ -5,6 +5,8 @@ body{
     max-width: 1050px;
     padding:0 10px;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
 }
 hr {
     border: 0;
@@ -150,3 +152,16 @@ td, th {
 .connect img {
     width: 28px
 }
+.sidebar {
+    float: right;
+    margin: 0 0 20px 20px;
+    text-align: right;
+}
+@media only screen and (max-width: 600px) {
+    .sidebar {
+        text-align: center;
+        float: none;
+    }
+}
+
+
