@@ -33,6 +33,7 @@ a:hover {
     padding-bottom: 1pt;
     margin-right: .25em;
     font-size: 0.8em;
+    white-space: nowrap;
 }
 
 .pubs i {
