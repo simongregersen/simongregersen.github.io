@@ -57,6 +57,7 @@ _In January 2026, I will start as a tenure-track faculty at [[https://cispa.de/]
 #+begin_pubs
 *Modular Reasoning about Error Bounds for Concurrent Probabilistic Programs* \\
 Kwing Hei Li, Alejandro Aguirre, Simon Oddershede Gregersen, Philipp G. Haselwarter, Joseph Tassarotti, Lars Birkedal \\
+/In ICFP 2025: ACM SIGPLAN International Conference on Functional Programming/ \\
 [[./papers/2025-coneris.pdf][PDF]] [[https://doi.org/10.1145/3747514][DOI]] [[https://arxiv.org/abs/2503.04512][arXiv]] [[https://doi.org/10.5281/zenodo.15694473][Artifact]] [[https://github.com/logsem/clutch][Rocq development]]
 
 *Logical Relations for Formally Verified Authenticated Data Structures* \\
