@@ -14,23 +14,25 @@
 [[./photo.png]]
 #+end_sidebar
 
-I am a postdoctoral researcher at the [[https://cims.nyu.edu][Courant Institute]] of [[https://www.nyu.edu][New York University]], working with [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
+I am a postdoctoral fellow at the [[https://cims.nyu.edu][Courant Institute]] of [[https://www.nyu.edu][New York University]], working with [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
 I received my PhD from [[http://cs.au.dk][Aarhus University]] in 2023 under the guidance of [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
-My research focuses on programming languages and program verification, in particular for security properties, distributed systems, and randomized programs. 
-Specifically, I work on techniques to develop formally verified software systems that come with machine-checked proofs. 
-I devise and apply new techniques, such as program logics and logical relations, that make it feasible or easier to construct such proofs.
+My research focuses on programming languages and program verification.
+I design and apply new techniques that make it feasible or easier to develop formally verified software systems.
+Currently, my work revolves around the correctness and security of distributed and randomized systems. 
 
-My work is currently supported by an [[https://www.carlsbergfondet.dk/en/what-we-have-funded/cf23-0791/][Internationalization Fellowship from the Carlsberg Foundation (CF23-0791)]].
+My work is currently supported by a [[https://www.carlsbergfondet.dk/en/what-we-have-funded/cf23-0791/][fellowship from the Carlsberg Foundation (CF23-0791)]].
 
-_In January 2026, I will start as a tenure-track faculty at [[https://cispa.de/][CISPA]]. I will be recruiting interns and PhD students. If you might be interested, I encourage you to reach out._
+_In January 2026, I will be joining [[https://cispa.de/][CISPA]] as tenure-track faculty. If you are a student interested in an internship or a PhD with me, I encourage you to send me an email._
+
+
 
 * Contact
 :PROPERTIES:
 :CUSTOM_ID: contact
 :END:
 
-*E-mail*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
+*Email*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
 [[./CV.pdf][CV]] (April 2025)
 
 #+begin_connect
