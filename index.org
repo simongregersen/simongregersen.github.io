@@ -33,7 +33,7 @@ _In January 2026, I will be joining [[https://cispa.de/][CISPA]] as tenure-track
 :END:
 
 *Email*: [[mailto:s.gregersen@nyu.edu][s.gregersen@nyu.edu]] \\
-[[./CV.pdf][CV]] (April 2025)
+[[./CV.pdf][CV]] (October 2025)
 
 #+begin_connect
 [[https://orcid.org/0000-0001-6045-5232][file:orcid.svg]]
