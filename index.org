@@ -17,13 +17,15 @@
 I am a postdoctoral fellow at the [[https://cims.nyu.edu][Courant Institute]] of [[https://www.nyu.edu][New York University]], working with [[https://cs.nyu.edu/~jt4767/][Joseph Tassarotti]].
 I received my PhD from [[http://cs.au.dk][Aarhus University]] in 2023 under the guidance of [[https://cs.au.dk/~timany][Amin Timany]] and [[http://cs.au.dk/~birke/][Lars Birkedal]].
 
-My research focuses on programming languages and program verification.
-I design and apply new techniques that make it feasible or easier to develop formally verified software systems.
-Currently, my work revolves around the correctness and security of distributed and randomized systems. 
+My research focuses on programming languages and program verification. I develop and apply new
+techniques that make it feasible or easier to build formally verified software systems. Currently,
+my work revolves around the correctness and security of distributed and randomized systems using
+techniques such as program logics, separation logic, logical relations, type systems, semantics, and
+interactive theorem provers.
 
 My work is currently supported by a [[https://www.carlsbergfondet.dk/en/what-we-have-funded/cf23-0791/][fellowship from the Carlsberg Foundation (CF23-0791)]].
 
-_In January 2026, I will be joining [[https://cispa.de/][CISPA]] as tenure-track faculty. If you are a student interested in an internship or a PhD with me, I encourage you to send me an email._
+_In January 2026, I will be joining [[https://cispa.de/][CISPA]] as tenure-track faculty. If you are interested in an internship or a PhD with me, I encourage you to send me an email._
 
 
 
