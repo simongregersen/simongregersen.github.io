@@ -1,0 +1,219 @@
+@font-face{
+    font-family: 'Fanwood-Webfont';
+    src: url('../fonts/fanwood-webfont.woff') format('woff');
+}
+@font-face{
+    font-family: 'Fanwood-Italic-Webfont';
+    src: url('../fonts/fanwood_italic-webfont.woff') format('woff');
+}
+
+body {
+    margin: 40px auto;
+    width: 1050px;
+    background: #ffffff;
+    /* background: #fffff8; */
+    color: #3a1616;
+    line-height: 1.4em;
+    font-size: 120%;
+    font-family: "Fanwood-Webfont", serif;
+    font-feature-settings: "liga", "clig";
+    text-align: justify;
+}
+
+.sidebar {
+    display: block;
+    float: right;
+    margin: 0 0 20px 40px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 1100px) {
+    body {
+        width: 95%;
+    }
+    .sidebar {
+        text-align: center;
+        float: none;
+        margin: 0 0 20px 0;
+    }
+    
+
+}
+
+i {
+    font-family:"Fanwood-Italic-Webfont", serif;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    margin: 10px 0 0 0;
+    padding: 0 0 20px 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+a:link {
+    text-decoration: none;
+    color: #bf4553;
+}
+
+a:hover {
+    /* color: #fb4e61; */
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #bf4553;
+}
+
+.underline {
+    color: #bf4553;
+}
+
+h1,h2,h3 {
+    margin: 30px 0 30px 0;
+    line-height: 1.2;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+    display: block;
+    font-weight: bold;
+}
+
+h1 {
+    font-size:1.8rem;
+
+}
+
+h2 {
+    font-size:1.5rem
+}
+
+h3 {
+    font-size:1.3rem
+}
+
+h4 {
+    font-size:1.2rem
+}
+
+h5 {
+    font-size:1.0rem
+}
+
+h6 {
+    font-size:1.0rem
+}
+
+img, table {
+    border: 0
+}
+
+table {
+    border: 1px solid;
+}
+
+#postamble {
+    margin: 60px 0 0 0;
+    padding: 2rem 0 2rem 0;
+}
+#postamble p {
+    color: #808080;
+    font-feature-settings: "smcp";
+    text-align: center;
+    font-size: 0.9em;
+    margin-bottom:.25em
+}
+
+.title {
+    text-align: left;
+    margin: 20px 0 30px 0;
+    line-height: 1em;
+    display: inline-block;
+}
+
+.subtitle {
+    color: #808080;
+    font-size: 0.7em;
+
+}
+
+.menu {
+    float: right;
+    display: inline-block;
+    margin: 10px 0 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu ul {
+    padding: 0;
+    display: inline;
+}
+
+.menu ul li {
+    display: inline;
+    padding: 0 0 20px 0;
+}
+
+.menu ul li:not(:last-child):after {
+    content: " · ";
+    padding: 0 5px 0 5px;
+}
+
+dd, dt {
+    margin-top: 10px;
+    line-height: 1.5rem;
+}
+
+td, th {
+    text-align: center !important
+}
+
+.connect {
+    text-align: center;
+}
+
+.connect img {
+    /* filter: grayscale(1); */
+    width: 28px;
+    padding: 0 5px 0 5px;
+}
+
+.tag {
+    font-feature-settings: "smcp";
+    float: right;
+    color: #808080;
+}
+
+#outline-container-publications h3 {
+    font-weight: bold;
+    text-align: left;
+    margin: 25px 0 0 0;
+}
+
+#outline-container-publications p {
+    margin: 0;
+    width: 85%;
+    font-family:"Fanwood-Italic-Webfont", serif;
+}
+
+#outline-container-publications ul {
+    padding: 0;
+    display: inline;
+}
+
+#outline-container-publications ul li {
+    display: inline;
+    padding: 0 0 20px 0;
+}
+
+#outline-container-publications ul li:not(:last-child):after {
+    content: " · ";
+    padding: 0 5px 0 5px;
+}
+
